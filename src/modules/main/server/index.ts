@@ -2,6 +2,10 @@ import { RpgServer, RpgModule } from '@rpgjs/server'
 import world from './maps/tmx/myworld.world'
 import { SampleMap } from './maps/samplemap'
 import { player } from './player'
+import { SampleMap2 } from './maps/samplemap2'
+import { SampleMap3 } from './maps/samplemap3'
+import { KupolaMap } from './maps/kupola'
+import { DreamMap } from './maps/dream'
 
 @RpgModule<RpgServer>({ 
     player,
@@ -16,7 +20,11 @@ import { player } from './player'
      * The fact of putting a map allows to have more possibilities on the manipulation of the map (put events, properties in the class, etc.)
      */
     maps: [
-        SampleMap
+        SampleMap,
+        SampleMap2,
+        SampleMap3,
+        KupolaMap,
+        DreamMap
     ]
 })
 export default class RpgServerModuleEngine {}

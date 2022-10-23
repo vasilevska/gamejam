@@ -3,9 +3,9 @@ import { Npc } from '../events/naStolu'
 import { VillagerEvent } from '../events/villager'
 
 @MapData({
-    id: 'simplemap',
-    file: require('./tmx/simplemap.tmx'),
-    name: 'dream1',
+    id: 'kupolamap',
+    file: require('./tmx/kupola2.tmx'),
+    name: 'kupola1',
     events: []
 })
-export class SampleMap extends RpgMap {}
+export class KupolaMap extends RpgMap {}

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.9" tiledversion="1.9.2" name="[A]Water_pipo" tilewidth="32" tileheight="32" tilecount="3072" columns="64">
+<tileset version="1.8" tiledversion="1.8.2" name="[A]Water_pipo" tilewidth="32" tileheight="32" tilecount="3072" columns="64">
  <image source="../../../client/maps/assets/[A]Water_pipo.png" width="2048" height="1536"/>
  <tile id="0">
   <properties>
@@ -281,6 +281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="40">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="41">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="42">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="43">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="44">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="45">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="46">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="47">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="48">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="49">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="50">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="51">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="52">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="53">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="54">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="55">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="56">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="57">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="58">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="59">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="60">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="61">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="62">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="63">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="64">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -291,6 +411,9 @@
    <frame tileid="80" duration="100"/>
    <frame tileid="88" duration="100"/>
    <frame tileid="96" duration="100"/>
+   <frame tileid="104" duration="100"/>
+   <frame tileid="112" duration="100"/>
+   <frame tileid="120" duration="100"/>
   </animation>
  </tile>
  <tile id="65">
@@ -303,6 +426,9 @@
    <frame tileid="81" duration="100"/>
    <frame tileid="89" duration="100"/>
    <frame tileid="97" duration="100"/>
+   <frame tileid="105" duration="100"/>
+   <frame tileid="113" duration="100"/>
+   <frame tileid="121" duration="100"/>
   </animation>
  </tile>
  <tile id="66">
@@ -315,6 +441,9 @@
    <frame tileid="82" duration="100"/>
    <frame tileid="90" duration="100"/>
    <frame tileid="98" duration="100"/>
+   <frame tileid="106" duration="100"/>
+   <frame tileid="114" duration="100"/>
+   <frame tileid="122" duration="100"/>
   </animation>
  </tile>
  <tile id="67">
@@ -327,6 +456,9 @@
    <frame tileid="83" duration="100"/>
    <frame tileid="91" duration="100"/>
    <frame tileid="99" duration="100"/>
+   <frame tileid="107" duration="100"/>
+   <frame tileid="115" duration="100"/>
+   <frame tileid="123" duration="100"/>
   </animation>
  </tile>
  <tile id="68">
@@ -339,6 +471,9 @@
    <frame tileid="84" duration="100"/>
    <frame tileid="92" duration="100"/>
    <frame tileid="100" duration="100"/>
+   <frame tileid="108" duration="100"/>
+   <frame tileid="116" duration="100"/>
+   <frame tileid="124" duration="100"/>
   </animation>
  </tile>
  <tile id="69">
@@ -351,6 +486,9 @@
    <frame tileid="85" duration="100"/>
    <frame tileid="93" duration="100"/>
    <frame tileid="101" duration="100"/>
+   <frame tileid="109" duration="100"/>
+   <frame tileid="117" duration="100"/>
+   <frame tileid="125" duration="100"/>
   </animation>
  </tile>
  <tile id="70">
@@ -363,6 +501,9 @@
    <frame tileid="86" duration="100"/>
    <frame tileid="94" duration="100"/>
    <frame tileid="102" duration="100"/>
+   <frame tileid="110" duration="100"/>
+   <frame tileid="118" duration="100"/>
+   <frame tileid="126" duration="100"/>
   </animation>
  </tile>
  <tile id="71">
@@ -375,6 +516,9 @@
    <frame tileid="87" duration="100"/>
    <frame tileid="95" duration="100"/>
    <frame tileid="103" duration="100"/>
+   <frame tileid="111" duration="100"/>
+   <frame tileid="119" duration="100"/>
+   <frame tileid="127" duration="100"/>
   </animation>
  </tile>
  <tile id="72">
@@ -537,6 +681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="104">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="105">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="106">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="107">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="108">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="109">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="110">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="111">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="112">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="113">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="114">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="115">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="116">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="117">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="118">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="119">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="120">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="121">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="122">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="123">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="124">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="125">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="126">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="127">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="128">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -547,6 +811,9 @@
    <frame tileid="144" duration="100"/>
    <frame tileid="152" duration="100"/>
    <frame tileid="160" duration="100"/>
+   <frame tileid="168" duration="100"/>
+   <frame tileid="176" duration="100"/>
+   <frame tileid="184" duration="100"/>
   </animation>
  </tile>
  <tile id="129">
@@ -559,6 +826,9 @@
    <frame tileid="145" duration="100"/>
    <frame tileid="153" duration="100"/>
    <frame tileid="161" duration="100"/>
+   <frame tileid="169" duration="100"/>
+   <frame tileid="177" duration="100"/>
+   <frame tileid="185" duration="100"/>
   </animation>
  </tile>
  <tile id="130">
@@ -571,6 +841,9 @@
    <frame tileid="146" duration="100"/>
    <frame tileid="154" duration="100"/>
    <frame tileid="162" duration="100"/>
+   <frame tileid="170" duration="100"/>
+   <frame tileid="178" duration="100"/>
+   <frame tileid="186" duration="100"/>
   </animation>
  </tile>
  <tile id="131">
@@ -583,6 +856,9 @@
    <frame tileid="147" duration="100"/>
    <frame tileid="155" duration="100"/>
    <frame tileid="163" duration="100"/>
+   <frame tileid="171" duration="100"/>
+   <frame tileid="179" duration="100"/>
+   <frame tileid="187" duration="100"/>
   </animation>
  </tile>
  <tile id="132">
@@ -595,6 +871,9 @@
    <frame tileid="148" duration="100"/>
    <frame tileid="156" duration="100"/>
    <frame tileid="164" duration="100"/>
+   <frame tileid="172" duration="100"/>
+   <frame tileid="180" duration="100"/>
+   <frame tileid="188" duration="100"/>
   </animation>
  </tile>
  <tile id="133">
@@ -607,6 +886,9 @@
    <frame tileid="149" duration="100"/>
    <frame tileid="157" duration="100"/>
    <frame tileid="165" duration="100"/>
+   <frame tileid="173" duration="100"/>
+   <frame tileid="181" duration="100"/>
+   <frame tileid="189" duration="100"/>
   </animation>
  </tile>
  <tile id="134">
@@ -619,6 +901,9 @@
    <frame tileid="150" duration="100"/>
    <frame tileid="158" duration="100"/>
    <frame tileid="166" duration="100"/>
+   <frame tileid="174" duration="100"/>
+   <frame tileid="182" duration="100"/>
+   <frame tileid="190" duration="100"/>
   </animation>
  </tile>
  <tile id="135">
@@ -631,6 +916,9 @@
    <frame tileid="151" duration="100"/>
    <frame tileid="159" duration="100"/>
    <frame tileid="167" duration="100"/>
+   <frame tileid="175" duration="100"/>
+   <frame tileid="183" duration="100"/>
+   <frame tileid="191" duration="100"/>
   </animation>
  </tile>
  <tile id="136">
@@ -793,6 +1081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="168">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="169">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="170">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="171">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="172">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="173">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="174">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="175">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="176">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="177">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="178">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="179">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="180">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="181">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="182">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="183">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="184">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="185">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="186">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="187">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="188">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="189">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="190">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="191">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="192">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -803,6 +1211,9 @@
    <frame tileid="208" duration="100"/>
    <frame tileid="216" duration="100"/>
    <frame tileid="224" duration="100"/>
+   <frame tileid="232" duration="100"/>
+   <frame tileid="240" duration="100"/>
+   <frame tileid="248" duration="100"/>
   </animation>
  </tile>
  <tile id="193">
@@ -815,6 +1226,9 @@
    <frame tileid="209" duration="100"/>
    <frame tileid="217" duration="100"/>
    <frame tileid="225" duration="100"/>
+   <frame tileid="233" duration="100"/>
+   <frame tileid="241" duration="100"/>
+   <frame tileid="249" duration="100"/>
   </animation>
  </tile>
  <tile id="194">
@@ -827,6 +1241,9 @@
    <frame tileid="210" duration="100"/>
    <frame tileid="218" duration="100"/>
    <frame tileid="226" duration="100"/>
+   <frame tileid="234" duration="100"/>
+   <frame tileid="242" duration="100"/>
+   <frame tileid="250" duration="100"/>
   </animation>
  </tile>
  <tile id="195">
@@ -839,6 +1256,9 @@
    <frame tileid="211" duration="100"/>
    <frame tileid="219" duration="100"/>
    <frame tileid="227" duration="100"/>
+   <frame tileid="235" duration="100"/>
+   <frame tileid="243" duration="100"/>
+   <frame tileid="251" duration="100"/>
   </animation>
  </tile>
  <tile id="196">
@@ -851,6 +1271,9 @@
    <frame tileid="212" duration="100"/>
    <frame tileid="220" duration="100"/>
    <frame tileid="228" duration="100"/>
+   <frame tileid="236" duration="100"/>
+   <frame tileid="244" duration="100"/>
+   <frame tileid="252" duration="100"/>
   </animation>
  </tile>
  <tile id="197">
@@ -863,6 +1286,9 @@
    <frame tileid="213" duration="100"/>
    <frame tileid="221" duration="100"/>
    <frame tileid="229" duration="100"/>
+   <frame tileid="237" duration="100"/>
+   <frame tileid="245" duration="100"/>
+   <frame tileid="253" duration="100"/>
   </animation>
  </tile>
  <tile id="198">
@@ -875,6 +1301,9 @@
    <frame tileid="214" duration="100"/>
    <frame tileid="222" duration="100"/>
    <frame tileid="230" duration="100"/>
+   <frame tileid="238" duration="100"/>
+   <frame tileid="246" duration="100"/>
+   <frame tileid="254" duration="100"/>
   </animation>
  </tile>
  <tile id="199">
@@ -887,6 +1316,9 @@
    <frame tileid="215" duration="100"/>
    <frame tileid="223" duration="100"/>
    <frame tileid="231" duration="100"/>
+   <frame tileid="239" duration="100"/>
+   <frame tileid="247" duration="100"/>
+   <frame tileid="255" duration="100"/>
   </animation>
  </tile>
  <tile id="200">
@@ -1049,6 +1481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="232">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="233">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="234">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="235">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="236">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="237">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="238">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="239">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="240">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="241">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="242">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="243">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="244">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="245">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="246">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="247">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="248">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="249">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="250">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="251">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="252">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="253">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="254">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="255">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="256">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -1059,6 +1611,9 @@
    <frame tileid="272" duration="100"/>
    <frame tileid="280" duration="100"/>
    <frame tileid="288" duration="100"/>
+   <frame tileid="296" duration="100"/>
+   <frame tileid="304" duration="100"/>
+   <frame tileid="312" duration="100"/>
   </animation>
  </tile>
  <tile id="257">
@@ -1071,6 +1626,9 @@
    <frame tileid="273" duration="100"/>
    <frame tileid="281" duration="100"/>
    <frame tileid="289" duration="100"/>
+   <frame tileid="297" duration="100"/>
+   <frame tileid="305" duration="100"/>
+   <frame tileid="313" duration="100"/>
   </animation>
  </tile>
  <tile id="258">
@@ -1083,6 +1641,9 @@
    <frame tileid="274" duration="100"/>
    <frame tileid="282" duration="100"/>
    <frame tileid="290" duration="100"/>
+   <frame tileid="298" duration="100"/>
+   <frame tileid="306" duration="100"/>
+   <frame tileid="314" duration="100"/>
   </animation>
  </tile>
  <tile id="259">
@@ -1095,6 +1656,9 @@
    <frame tileid="275" duration="100"/>
    <frame tileid="283" duration="100"/>
    <frame tileid="291" duration="100"/>
+   <frame tileid="299" duration="100"/>
+   <frame tileid="307" duration="100"/>
+   <frame tileid="315" duration="100"/>
   </animation>
  </tile>
  <tile id="260">
@@ -1107,6 +1671,9 @@
    <frame tileid="276" duration="100"/>
    <frame tileid="284" duration="100"/>
    <frame tileid="292" duration="100"/>
+   <frame tileid="300" duration="100"/>
+   <frame tileid="308" duration="100"/>
+   <frame tileid="316" duration="100"/>
   </animation>
  </tile>
  <tile id="261">
@@ -1119,6 +1686,9 @@
    <frame tileid="277" duration="100"/>
    <frame tileid="285" duration="100"/>
    <frame tileid="293" duration="100"/>
+   <frame tileid="301" duration="100"/>
+   <frame tileid="309" duration="100"/>
+   <frame tileid="317" duration="100"/>
   </animation>
  </tile>
  <tile id="262">
@@ -1131,6 +1701,9 @@
    <frame tileid="278" duration="100"/>
    <frame tileid="286" duration="100"/>
    <frame tileid="294" duration="100"/>
+   <frame tileid="302" duration="100"/>
+   <frame tileid="310" duration="100"/>
+   <frame tileid="318" duration="100"/>
   </animation>
  </tile>
  <tile id="263">
@@ -1143,6 +1716,9 @@
    <frame tileid="279" duration="100"/>
    <frame tileid="287" duration="100"/>
    <frame tileid="295" duration="100"/>
+   <frame tileid="303" duration="100"/>
+   <frame tileid="311" duration="100"/>
+   <frame tileid="319" duration="100"/>
   </animation>
  </tile>
  <tile id="264">
@@ -1305,6 +1881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="296">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="297">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="298">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="299">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="300">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="301">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="302">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="303">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="304">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="305">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="306">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="307">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="308">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="309">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="310">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="311">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="312">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="313">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="314">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="315">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="316">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="317">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="318">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="319">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="320">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -1315,6 +2011,9 @@
    <frame tileid="336" duration="100"/>
    <frame tileid="344" duration="100"/>
    <frame tileid="352" duration="100"/>
+   <frame tileid="360" duration="100"/>
+   <frame tileid="368" duration="100"/>
+   <frame tileid="376" duration="100"/>
   </animation>
  </tile>
  <tile id="321">
@@ -1327,6 +2026,9 @@
    <frame tileid="337" duration="100"/>
    <frame tileid="345" duration="100"/>
    <frame tileid="353" duration="100"/>
+   <frame tileid="361" duration="100"/>
+   <frame tileid="369" duration="100"/>
+   <frame tileid="377" duration="100"/>
   </animation>
  </tile>
  <tile id="322">
@@ -1339,6 +2041,9 @@
    <frame tileid="338" duration="100"/>
    <frame tileid="346" duration="100"/>
    <frame tileid="354" duration="100"/>
+   <frame tileid="362" duration="100"/>
+   <frame tileid="370" duration="100"/>
+   <frame tileid="378" duration="100"/>
   </animation>
  </tile>
  <tile id="323">
@@ -1351,6 +2056,9 @@
    <frame tileid="339" duration="100"/>
    <frame tileid="347" duration="100"/>
    <frame tileid="355" duration="100"/>
+   <frame tileid="363" duration="100"/>
+   <frame tileid="371" duration="100"/>
+   <frame tileid="379" duration="100"/>
   </animation>
  </tile>
  <tile id="324">
@@ -1363,6 +2071,9 @@
    <frame tileid="340" duration="100"/>
    <frame tileid="348" duration="100"/>
    <frame tileid="356" duration="100"/>
+   <frame tileid="364" duration="100"/>
+   <frame tileid="372" duration="100"/>
+   <frame tileid="380" duration="100"/>
   </animation>
  </tile>
  <tile id="325">
@@ -1375,6 +2086,9 @@
    <frame tileid="341" duration="100"/>
    <frame tileid="349" duration="100"/>
    <frame tileid="357" duration="100"/>
+   <frame tileid="365" duration="100"/>
+   <frame tileid="373" duration="100"/>
+   <frame tileid="381" duration="100"/>
   </animation>
  </tile>
  <tile id="326">
@@ -1387,6 +2101,9 @@
    <frame tileid="342" duration="100"/>
    <frame tileid="350" duration="100"/>
    <frame tileid="358" duration="100"/>
+   <frame tileid="366" duration="100"/>
+   <frame tileid="374" duration="100"/>
+   <frame tileid="382" duration="100"/>
   </animation>
  </tile>
  <tile id="327">
@@ -1399,6 +2116,9 @@
    <frame tileid="343" duration="100"/>
    <frame tileid="351" duration="100"/>
    <frame tileid="359" duration="100"/>
+   <frame tileid="367" duration="100"/>
+   <frame tileid="375" duration="100"/>
+   <frame tileid="383" duration="100"/>
   </animation>
  </tile>
  <tile id="328">
@@ -1561,6 +2281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="360">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="361">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="362">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="363">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="364">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="365">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="366">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="367">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="368">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="369">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="370">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="371">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="372">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="373">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="374">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="375">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="376">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="377">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="378">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="379">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="380">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="381">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="382">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="383">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="384">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -1571,6 +2411,9 @@
    <frame tileid="400" duration="100"/>
    <frame tileid="408" duration="100"/>
    <frame tileid="416" duration="100"/>
+   <frame tileid="424" duration="100"/>
+   <frame tileid="432" duration="100"/>
+   <frame tileid="440" duration="100"/>
   </animation>
  </tile>
  <tile id="385">
@@ -1583,6 +2426,9 @@
    <frame tileid="401" duration="100"/>
    <frame tileid="409" duration="100"/>
    <frame tileid="417" duration="100"/>
+   <frame tileid="425" duration="100"/>
+   <frame tileid="433" duration="100"/>
+   <frame tileid="441" duration="100"/>
   </animation>
  </tile>
  <tile id="386">
@@ -1595,6 +2441,9 @@
    <frame tileid="402" duration="100"/>
    <frame tileid="410" duration="100"/>
    <frame tileid="418" duration="100"/>
+   <frame tileid="426" duration="100"/>
+   <frame tileid="434" duration="100"/>
+   <frame tileid="442" duration="100"/>
   </animation>
  </tile>
  <tile id="387">
@@ -1607,6 +2456,9 @@
    <frame tileid="403" duration="100"/>
    <frame tileid="411" duration="100"/>
    <frame tileid="419" duration="100"/>
+   <frame tileid="427" duration="100"/>
+   <frame tileid="435" duration="100"/>
+   <frame tileid="443" duration="100"/>
   </animation>
  </tile>
  <tile id="388">
@@ -1619,6 +2471,9 @@
    <frame tileid="404" duration="100"/>
    <frame tileid="412" duration="100"/>
    <frame tileid="420" duration="100"/>
+   <frame tileid="428" duration="100"/>
+   <frame tileid="436" duration="100"/>
+   <frame tileid="444" duration="100"/>
   </animation>
  </tile>
  <tile id="389">
@@ -1631,6 +2486,9 @@
    <frame tileid="405" duration="100"/>
    <frame tileid="413" duration="100"/>
    <frame tileid="421" duration="100"/>
+   <frame tileid="429" duration="100"/>
+   <frame tileid="437" duration="100"/>
+   <frame tileid="445" duration="100"/>
   </animation>
  </tile>
  <tile id="390">
@@ -1643,6 +2501,9 @@
    <frame tileid="406" duration="100"/>
    <frame tileid="414" duration="100"/>
    <frame tileid="422" duration="100"/>
+   <frame tileid="430" duration="100"/>
+   <frame tileid="438" duration="100"/>
+   <frame tileid="446" duration="100"/>
   </animation>
  </tile>
  <tile id="391">
@@ -1655,6 +2516,9 @@
    <frame tileid="407" duration="100"/>
    <frame tileid="415" duration="100"/>
    <frame tileid="423" duration="100"/>
+   <frame tileid="431" duration="100"/>
+   <frame tileid="439" duration="100"/>
+   <frame tileid="447" duration="100"/>
   </animation>
  </tile>
  <tile id="392">
@@ -1817,6 +2681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="424">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="425">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="426">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="427">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="428">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="429">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="430">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="431">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="432">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="433">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="434">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="435">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="436">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="437">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="438">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="439">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="440">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="441">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="442">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="443">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="444">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="445">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="446">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="447">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="448">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -1827,6 +2811,9 @@
    <frame tileid="464" duration="100"/>
    <frame tileid="472" duration="100"/>
    <frame tileid="480" duration="100"/>
+   <frame tileid="488" duration="100"/>
+   <frame tileid="496" duration="100"/>
+   <frame tileid="504" duration="100"/>
   </animation>
  </tile>
  <tile id="449">
@@ -1839,6 +2826,9 @@
    <frame tileid="465" duration="100"/>
    <frame tileid="473" duration="100"/>
    <frame tileid="481" duration="100"/>
+   <frame tileid="489" duration="100"/>
+   <frame tileid="497" duration="100"/>
+   <frame tileid="505" duration="100"/>
   </animation>
  </tile>
  <tile id="450">
@@ -1851,6 +2841,9 @@
    <frame tileid="466" duration="100"/>
    <frame tileid="474" duration="100"/>
    <frame tileid="482" duration="100"/>
+   <frame tileid="490" duration="100"/>
+   <frame tileid="498" duration="100"/>
+   <frame tileid="506" duration="100"/>
   </animation>
  </tile>
  <tile id="451">
@@ -1863,6 +2856,9 @@
    <frame tileid="467" duration="100"/>
    <frame tileid="475" duration="100"/>
    <frame tileid="483" duration="100"/>
+   <frame tileid="491" duration="100"/>
+   <frame tileid="499" duration="100"/>
+   <frame tileid="507" duration="100"/>
   </animation>
  </tile>
  <tile id="452">
@@ -1875,6 +2871,9 @@
    <frame tileid="468" duration="100"/>
    <frame tileid="476" duration="100"/>
    <frame tileid="484" duration="100"/>
+   <frame tileid="492" duration="100"/>
+   <frame tileid="500" duration="100"/>
+   <frame tileid="508" duration="100"/>
   </animation>
  </tile>
  <tile id="453">
@@ -1887,6 +2886,9 @@
    <frame tileid="469" duration="100"/>
    <frame tileid="477" duration="100"/>
    <frame tileid="485" duration="100"/>
+   <frame tileid="493" duration="100"/>
+   <frame tileid="501" duration="100"/>
+   <frame tileid="509" duration="100"/>
   </animation>
  </tile>
  <tile id="454">
@@ -1899,6 +2901,9 @@
    <frame tileid="470" duration="100"/>
    <frame tileid="478" duration="100"/>
    <frame tileid="486" duration="100"/>
+   <frame tileid="494" duration="100"/>
+   <frame tileid="502" duration="100"/>
+   <frame tileid="510" duration="100"/>
   </animation>
  </tile>
  <tile id="455">
@@ -1911,6 +2916,9 @@
    <frame tileid="471" duration="100"/>
    <frame tileid="479" duration="100"/>
    <frame tileid="487" duration="100"/>
+   <frame tileid="495" duration="100"/>
+   <frame tileid="503" duration="100"/>
+   <frame tileid="511" duration="100"/>
   </animation>
  </tile>
  <tile id="456">
@@ -2073,6 +3081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="488">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="489">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="490">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="491">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="492">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="493">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="494">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="495">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="496">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="497">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="498">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="499">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="500">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="501">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="502">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="503">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="504">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="505">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="506">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="507">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="508">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="509">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="510">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="511">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="512">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -2083,6 +3211,9 @@
    <frame tileid="528" duration="100"/>
    <frame tileid="536" duration="100"/>
    <frame tileid="544" duration="100"/>
+   <frame tileid="552" duration="100"/>
+   <frame tileid="560" duration="100"/>
+   <frame tileid="568" duration="100"/>
   </animation>
  </tile>
  <tile id="513">
@@ -2095,6 +3226,9 @@
    <frame tileid="529" duration="100"/>
    <frame tileid="537" duration="100"/>
    <frame tileid="545" duration="100"/>
+   <frame tileid="553" duration="100"/>
+   <frame tileid="561" duration="100"/>
+   <frame tileid="569" duration="100"/>
   </animation>
  </tile>
  <tile id="514">
@@ -2107,6 +3241,9 @@
    <frame tileid="530" duration="100"/>
    <frame tileid="538" duration="100"/>
    <frame tileid="546" duration="100"/>
+   <frame tileid="554" duration="100"/>
+   <frame tileid="562" duration="100"/>
+   <frame tileid="570" duration="100"/>
   </animation>
  </tile>
  <tile id="515">
@@ -2119,6 +3256,9 @@
    <frame tileid="531" duration="100"/>
    <frame tileid="539" duration="100"/>
    <frame tileid="547" duration="100"/>
+   <frame tileid="555" duration="100"/>
+   <frame tileid="563" duration="100"/>
+   <frame tileid="571" duration="100"/>
   </animation>
  </tile>
  <tile id="516">
@@ -2131,6 +3271,9 @@
    <frame tileid="532" duration="100"/>
    <frame tileid="540" duration="100"/>
    <frame tileid="548" duration="100"/>
+   <frame tileid="556" duration="100"/>
+   <frame tileid="564" duration="100"/>
+   <frame tileid="572" duration="100"/>
   </animation>
  </tile>
  <tile id="517">
@@ -2143,6 +3286,9 @@
    <frame tileid="533" duration="100"/>
    <frame tileid="541" duration="100"/>
    <frame tileid="549" duration="100"/>
+   <frame tileid="557" duration="100"/>
+   <frame tileid="565" duration="100"/>
+   <frame tileid="573" duration="100"/>
   </animation>
  </tile>
  <tile id="518">
@@ -2155,6 +3301,9 @@
    <frame tileid="534" duration="100"/>
    <frame tileid="542" duration="100"/>
    <frame tileid="550" duration="100"/>
+   <frame tileid="558" duration="100"/>
+   <frame tileid="566" duration="100"/>
+   <frame tileid="574" duration="100"/>
   </animation>
  </tile>
  <tile id="519">
@@ -2167,6 +3316,9 @@
    <frame tileid="535" duration="100"/>
    <frame tileid="543" duration="100"/>
    <frame tileid="551" duration="100"/>
+   <frame tileid="559" duration="100"/>
+   <frame tileid="567" duration="100"/>
+   <frame tileid="575" duration="100"/>
   </animation>
  </tile>
  <tile id="520">
@@ -2329,6 +3481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="552">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="553">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="554">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="555">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="556">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="557">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="558">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="559">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="560">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="561">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="562">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="563">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="564">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="565">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="566">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="567">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="568">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="569">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="570">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="571">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="572">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="573">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="574">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="575">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="576">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -2339,6 +3611,9 @@
    <frame tileid="592" duration="100"/>
    <frame tileid="600" duration="100"/>
    <frame tileid="608" duration="100"/>
+   <frame tileid="616" duration="100"/>
+   <frame tileid="624" duration="100"/>
+   <frame tileid="632" duration="100"/>
   </animation>
  </tile>
  <tile id="577">
@@ -2351,6 +3626,9 @@
    <frame tileid="593" duration="100"/>
    <frame tileid="601" duration="100"/>
    <frame tileid="609" duration="100"/>
+   <frame tileid="617" duration="100"/>
+   <frame tileid="625" duration="100"/>
+   <frame tileid="633" duration="100"/>
   </animation>
  </tile>
  <tile id="578">
@@ -2363,6 +3641,9 @@
    <frame tileid="594" duration="100"/>
    <frame tileid="602" duration="100"/>
    <frame tileid="610" duration="100"/>
+   <frame tileid="618" duration="100"/>
+   <frame tileid="626" duration="100"/>
+   <frame tileid="634" duration="100"/>
   </animation>
  </tile>
  <tile id="579">
@@ -2375,6 +3656,9 @@
    <frame tileid="595" duration="100"/>
    <frame tileid="603" duration="100"/>
    <frame tileid="611" duration="100"/>
+   <frame tileid="619" duration="100"/>
+   <frame tileid="627" duration="100"/>
+   <frame tileid="635" duration="100"/>
   </animation>
  </tile>
  <tile id="580">
@@ -2387,6 +3671,9 @@
    <frame tileid="596" duration="100"/>
    <frame tileid="604" duration="100"/>
    <frame tileid="612" duration="100"/>
+   <frame tileid="620" duration="100"/>
+   <frame tileid="628" duration="100"/>
+   <frame tileid="636" duration="100"/>
   </animation>
  </tile>
  <tile id="581">
@@ -2399,6 +3686,9 @@
    <frame tileid="597" duration="100"/>
    <frame tileid="605" duration="100"/>
    <frame tileid="613" duration="100"/>
+   <frame tileid="621" duration="100"/>
+   <frame tileid="629" duration="100"/>
+   <frame tileid="637" duration="100"/>
   </animation>
  </tile>
  <tile id="582">
@@ -2411,6 +3701,9 @@
    <frame tileid="598" duration="100"/>
    <frame tileid="606" duration="100"/>
    <frame tileid="614" duration="100"/>
+   <frame tileid="622" duration="100"/>
+   <frame tileid="630" duration="100"/>
+   <frame tileid="638" duration="100"/>
   </animation>
  </tile>
  <tile id="583">
@@ -2423,6 +3716,9 @@
    <frame tileid="599" duration="100"/>
    <frame tileid="607" duration="100"/>
    <frame tileid="615" duration="100"/>
+   <frame tileid="623" duration="100"/>
+   <frame tileid="631" duration="100"/>
+   <frame tileid="639" duration="100"/>
   </animation>
  </tile>
  <tile id="584">
@@ -2585,6 +3881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="616">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="617">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="618">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="619">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="620">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="621">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="622">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="623">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="624">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="625">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="626">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="627">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="628">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="629">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="630">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="631">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="632">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="633">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="634">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="635">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="636">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="637">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="638">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="639">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="640">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -2595,6 +4011,9 @@
    <frame tileid="656" duration="100"/>
    <frame tileid="664" duration="100"/>
    <frame tileid="672" duration="100"/>
+   <frame tileid="680" duration="100"/>
+   <frame tileid="688" duration="100"/>
+   <frame tileid="696" duration="100"/>
   </animation>
  </tile>
  <tile id="641">
@@ -2607,6 +4026,9 @@
    <frame tileid="657" duration="100"/>
    <frame tileid="665" duration="100"/>
    <frame tileid="673" duration="100"/>
+   <frame tileid="681" duration="100"/>
+   <frame tileid="689" duration="100"/>
+   <frame tileid="697" duration="100"/>
   </animation>
  </tile>
  <tile id="642">
@@ -2619,6 +4041,9 @@
    <frame tileid="658" duration="100"/>
    <frame tileid="666" duration="100"/>
    <frame tileid="674" duration="100"/>
+   <frame tileid="682" duration="100"/>
+   <frame tileid="690" duration="100"/>
+   <frame tileid="698" duration="100"/>
   </animation>
  </tile>
  <tile id="643">
@@ -2631,6 +4056,9 @@
    <frame tileid="659" duration="100"/>
    <frame tileid="667" duration="100"/>
    <frame tileid="675" duration="100"/>
+   <frame tileid="683" duration="100"/>
+   <frame tileid="691" duration="100"/>
+   <frame tileid="699" duration="100"/>
   </animation>
  </tile>
  <tile id="644">
@@ -2643,6 +4071,9 @@
    <frame tileid="660" duration="100"/>
    <frame tileid="668" duration="100"/>
    <frame tileid="676" duration="100"/>
+   <frame tileid="684" duration="100"/>
+   <frame tileid="692" duration="100"/>
+   <frame tileid="700" duration="100"/>
   </animation>
  </tile>
  <tile id="645">
@@ -2655,6 +4086,9 @@
    <frame tileid="661" duration="100"/>
    <frame tileid="669" duration="100"/>
    <frame tileid="677" duration="100"/>
+   <frame tileid="685" duration="100"/>
+   <frame tileid="693" duration="100"/>
+   <frame tileid="701" duration="100"/>
   </animation>
  </tile>
  <tile id="646">
@@ -2667,6 +4101,9 @@
    <frame tileid="662" duration="100"/>
    <frame tileid="670" duration="100"/>
    <frame tileid="678" duration="100"/>
+   <frame tileid="686" duration="100"/>
+   <frame tileid="694" duration="100"/>
+   <frame tileid="702" duration="100"/>
   </animation>
  </tile>
  <tile id="647">
@@ -2679,6 +4116,9 @@
    <frame tileid="663" duration="100"/>
    <frame tileid="671" duration="100"/>
    <frame tileid="679" duration="100"/>
+   <frame tileid="687" duration="100"/>
+   <frame tileid="695" duration="100"/>
+   <frame tileid="703" duration="100"/>
   </animation>
  </tile>
  <tile id="648">
@@ -2841,6 +4281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="680">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="681">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="682">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="683">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="684">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="685">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="686">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="687">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="688">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="689">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="690">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="691">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="692">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="693">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="694">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="695">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="696">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="697">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="698">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="699">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="700">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="701">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="702">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="703">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="704">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -2851,6 +4411,9 @@
    <frame tileid="720" duration="100"/>
    <frame tileid="728" duration="100"/>
    <frame tileid="736" duration="100"/>
+   <frame tileid="744" duration="100"/>
+   <frame tileid="752" duration="100"/>
+   <frame tileid="760" duration="100"/>
   </animation>
  </tile>
  <tile id="705">
@@ -2863,6 +4426,9 @@
    <frame tileid="721" duration="100"/>
    <frame tileid="729" duration="100"/>
    <frame tileid="737" duration="100"/>
+   <frame tileid="745" duration="100"/>
+   <frame tileid="753" duration="100"/>
+   <frame tileid="761" duration="100"/>
   </animation>
  </tile>
  <tile id="706">
@@ -2875,6 +4441,9 @@
    <frame tileid="722" duration="100"/>
    <frame tileid="730" duration="100"/>
    <frame tileid="738" duration="100"/>
+   <frame tileid="746" duration="100"/>
+   <frame tileid="754" duration="100"/>
+   <frame tileid="762" duration="100"/>
   </animation>
  </tile>
  <tile id="707">
@@ -2887,6 +4456,9 @@
    <frame tileid="723" duration="100"/>
    <frame tileid="731" duration="100"/>
    <frame tileid="739" duration="100"/>
+   <frame tileid="747" duration="100"/>
+   <frame tileid="755" duration="100"/>
+   <frame tileid="763" duration="100"/>
   </animation>
  </tile>
  <tile id="708">
@@ -2899,6 +4471,9 @@
    <frame tileid="724" duration="100"/>
    <frame tileid="732" duration="100"/>
    <frame tileid="740" duration="100"/>
+   <frame tileid="748" duration="100"/>
+   <frame tileid="756" duration="100"/>
+   <frame tileid="764" duration="100"/>
   </animation>
  </tile>
  <tile id="709">
@@ -2911,6 +4486,9 @@
    <frame tileid="725" duration="100"/>
    <frame tileid="733" duration="100"/>
    <frame tileid="741" duration="100"/>
+   <frame tileid="749" duration="100"/>
+   <frame tileid="757" duration="100"/>
+   <frame tileid="765" duration="100"/>
   </animation>
  </tile>
  <tile id="710">
@@ -2923,6 +4501,9 @@
    <frame tileid="726" duration="100"/>
    <frame tileid="734" duration="100"/>
    <frame tileid="742" duration="100"/>
+   <frame tileid="750" duration="100"/>
+   <frame tileid="758" duration="100"/>
+   <frame tileid="766" duration="100"/>
   </animation>
  </tile>
  <tile id="711">
@@ -2935,6 +4516,9 @@
    <frame tileid="727" duration="100"/>
    <frame tileid="735" duration="100"/>
    <frame tileid="743" duration="100"/>
+   <frame tileid="751" duration="100"/>
+   <frame tileid="759" duration="100"/>
+   <frame tileid="767" duration="100"/>
   </animation>
  </tile>
  <tile id="712">
@@ -3097,6 +4681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="744">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="745">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="746">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="747">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="748">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="749">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="750">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="751">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="752">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="753">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="754">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="755">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="756">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="757">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="758">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="759">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="760">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="761">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="762">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="763">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="764">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="765">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="766">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="767">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="768">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -3107,6 +4811,9 @@
    <frame tileid="784" duration="100"/>
    <frame tileid="792" duration="100"/>
    <frame tileid="800" duration="100"/>
+   <frame tileid="808" duration="100"/>
+   <frame tileid="816" duration="100"/>
+   <frame tileid="824" duration="100"/>
   </animation>
  </tile>
  <tile id="769">
@@ -3119,6 +4826,9 @@
    <frame tileid="785" duration="100"/>
    <frame tileid="793" duration="100"/>
    <frame tileid="801" duration="100"/>
+   <frame tileid="809" duration="100"/>
+   <frame tileid="817" duration="100"/>
+   <frame tileid="825" duration="100"/>
   </animation>
  </tile>
  <tile id="770">
@@ -3131,6 +4841,9 @@
    <frame tileid="786" duration="100"/>
    <frame tileid="794" duration="100"/>
    <frame tileid="802" duration="100"/>
+   <frame tileid="810" duration="100"/>
+   <frame tileid="818" duration="100"/>
+   <frame tileid="826" duration="100"/>
   </animation>
  </tile>
  <tile id="771">
@@ -3143,6 +4856,9 @@
    <frame tileid="787" duration="100"/>
    <frame tileid="795" duration="100"/>
    <frame tileid="803" duration="100"/>
+   <frame tileid="811" duration="100"/>
+   <frame tileid="819" duration="100"/>
+   <frame tileid="827" duration="100"/>
   </animation>
  </tile>
  <tile id="772">
@@ -3155,6 +4871,9 @@
    <frame tileid="788" duration="100"/>
    <frame tileid="796" duration="100"/>
    <frame tileid="804" duration="100"/>
+   <frame tileid="812" duration="100"/>
+   <frame tileid="820" duration="100"/>
+   <frame tileid="828" duration="100"/>
   </animation>
  </tile>
  <tile id="773">
@@ -3167,6 +4886,9 @@
    <frame tileid="789" duration="100"/>
    <frame tileid="797" duration="100"/>
    <frame tileid="805" duration="100"/>
+   <frame tileid="813" duration="100"/>
+   <frame tileid="821" duration="100"/>
+   <frame tileid="829" duration="100"/>
   </animation>
  </tile>
  <tile id="774">
@@ -3179,6 +4901,9 @@
    <frame tileid="790" duration="100"/>
    <frame tileid="798" duration="100"/>
    <frame tileid="806" duration="100"/>
+   <frame tileid="814" duration="100"/>
+   <frame tileid="822" duration="100"/>
+   <frame tileid="830" duration="100"/>
   </animation>
  </tile>
  <tile id="775">
@@ -3191,6 +4916,9 @@
    <frame tileid="791" duration="100"/>
    <frame tileid="799" duration="100"/>
    <frame tileid="807" duration="100"/>
+   <frame tileid="815" duration="100"/>
+   <frame tileid="823" duration="100"/>
+   <frame tileid="831" duration="100"/>
   </animation>
  </tile>
  <tile id="776">
@@ -3353,6 +5081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="808">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="809">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="810">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="811">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="812">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="813">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="814">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="815">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="816">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="817">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="818">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="819">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="820">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="821">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="822">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="823">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="824">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="825">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="826">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="827">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="828">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="829">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="830">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="831">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="832">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -3363,6 +5211,9 @@
    <frame tileid="848" duration="100"/>
    <frame tileid="856" duration="100"/>
    <frame tileid="864" duration="100"/>
+   <frame tileid="872" duration="100"/>
+   <frame tileid="880" duration="100"/>
+   <frame tileid="888" duration="100"/>
   </animation>
  </tile>
  <tile id="833">
@@ -3375,6 +5226,9 @@
    <frame tileid="849" duration="100"/>
    <frame tileid="857" duration="100"/>
    <frame tileid="865" duration="100"/>
+   <frame tileid="873" duration="100"/>
+   <frame tileid="881" duration="100"/>
+   <frame tileid="889" duration="100"/>
   </animation>
  </tile>
  <tile id="834">
@@ -3387,6 +5241,9 @@
    <frame tileid="850" duration="100"/>
    <frame tileid="858" duration="100"/>
    <frame tileid="866" duration="100"/>
+   <frame tileid="874" duration="100"/>
+   <frame tileid="882" duration="100"/>
+   <frame tileid="890" duration="100"/>
   </animation>
  </tile>
  <tile id="835">
@@ -3399,6 +5256,9 @@
    <frame tileid="851" duration="100"/>
    <frame tileid="859" duration="100"/>
    <frame tileid="867" duration="100"/>
+   <frame tileid="875" duration="100"/>
+   <frame tileid="883" duration="100"/>
+   <frame tileid="891" duration="100"/>
   </animation>
  </tile>
  <tile id="836">
@@ -3411,6 +5271,9 @@
    <frame tileid="852" duration="100"/>
    <frame tileid="860" duration="100"/>
    <frame tileid="868" duration="100"/>
+   <frame tileid="876" duration="100"/>
+   <frame tileid="884" duration="100"/>
+   <frame tileid="892" duration="100"/>
   </animation>
  </tile>
  <tile id="837">
@@ -3423,6 +5286,9 @@
    <frame tileid="853" duration="100"/>
    <frame tileid="861" duration="100"/>
    <frame tileid="869" duration="100"/>
+   <frame tileid="877" duration="100"/>
+   <frame tileid="885" duration="100"/>
+   <frame tileid="893" duration="100"/>
   </animation>
  </tile>
  <tile id="838">
@@ -3435,6 +5301,9 @@
    <frame tileid="854" duration="100"/>
    <frame tileid="862" duration="100"/>
    <frame tileid="870" duration="100"/>
+   <frame tileid="878" duration="100"/>
+   <frame tileid="886" duration="100"/>
+   <frame tileid="894" duration="100"/>
   </animation>
  </tile>
  <tile id="839">
@@ -3447,6 +5316,9 @@
    <frame tileid="855" duration="100"/>
    <frame tileid="863" duration="100"/>
    <frame tileid="871" duration="100"/>
+   <frame tileid="879" duration="100"/>
+   <frame tileid="887" duration="100"/>
+   <frame tileid="895" duration="100"/>
   </animation>
  </tile>
  <tile id="840">
@@ -3609,6 +5481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="872">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="873">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="874">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="875">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="876">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="877">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="878">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="879">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="880">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="881">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="882">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="883">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="884">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="885">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="886">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="887">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="888">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="889">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="890">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="891">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="892">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="893">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="894">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="895">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="896">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -3619,6 +5611,9 @@
    <frame tileid="912" duration="100"/>
    <frame tileid="920" duration="100"/>
    <frame tileid="928" duration="100"/>
+   <frame tileid="936" duration="100"/>
+   <frame tileid="944" duration="100"/>
+   <frame tileid="952" duration="100"/>
   </animation>
  </tile>
  <tile id="897">
@@ -3631,6 +5626,9 @@
    <frame tileid="913" duration="100"/>
    <frame tileid="921" duration="100"/>
    <frame tileid="929" duration="100"/>
+   <frame tileid="937" duration="100"/>
+   <frame tileid="945" duration="100"/>
+   <frame tileid="953" duration="100"/>
   </animation>
  </tile>
  <tile id="898">
@@ -3643,6 +5641,9 @@
    <frame tileid="914" duration="100"/>
    <frame tileid="922" duration="100"/>
    <frame tileid="930" duration="100"/>
+   <frame tileid="938" duration="100"/>
+   <frame tileid="946" duration="100"/>
+   <frame tileid="954" duration="100"/>
   </animation>
  </tile>
  <tile id="899">
@@ -3655,6 +5656,9 @@
    <frame tileid="915" duration="100"/>
    <frame tileid="923" duration="100"/>
    <frame tileid="931" duration="100"/>
+   <frame tileid="939" duration="100"/>
+   <frame tileid="947" duration="100"/>
+   <frame tileid="955" duration="100"/>
   </animation>
  </tile>
  <tile id="900">
@@ -3667,6 +5671,9 @@
    <frame tileid="916" duration="100"/>
    <frame tileid="924" duration="100"/>
    <frame tileid="932" duration="100"/>
+   <frame tileid="940" duration="100"/>
+   <frame tileid="948" duration="100"/>
+   <frame tileid="956" duration="100"/>
   </animation>
  </tile>
  <tile id="901">
@@ -3679,6 +5686,9 @@
    <frame tileid="917" duration="100"/>
    <frame tileid="925" duration="100"/>
    <frame tileid="933" duration="100"/>
+   <frame tileid="941" duration="100"/>
+   <frame tileid="949" duration="100"/>
+   <frame tileid="957" duration="100"/>
   </animation>
  </tile>
  <tile id="902">
@@ -3691,6 +5701,9 @@
    <frame tileid="918" duration="100"/>
    <frame tileid="926" duration="100"/>
    <frame tileid="934" duration="100"/>
+   <frame tileid="942" duration="100"/>
+   <frame tileid="950" duration="100"/>
+   <frame tileid="958" duration="100"/>
   </animation>
  </tile>
  <tile id="903">
@@ -3703,6 +5716,9 @@
    <frame tileid="919" duration="100"/>
    <frame tileid="927" duration="100"/>
    <frame tileid="935" duration="100"/>
+   <frame tileid="943" duration="100"/>
+   <frame tileid="951" duration="100"/>
+   <frame tileid="959" duration="100"/>
   </animation>
  </tile>
  <tile id="904">
@@ -3865,6 +5881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="936">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="937">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="938">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="939">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="940">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="941">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="942">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="943">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="944">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="945">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="946">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="947">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="948">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="949">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="950">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="951">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="952">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="953">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="954">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="955">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="956">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="957">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="958">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="959">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="960">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -3875,6 +6011,9 @@
    <frame tileid="976" duration="100"/>
    <frame tileid="984" duration="100"/>
    <frame tileid="992" duration="100"/>
+   <frame tileid="1000" duration="100"/>
+   <frame tileid="1008" duration="100"/>
+   <frame tileid="1016" duration="100"/>
   </animation>
  </tile>
  <tile id="961">
@@ -3887,6 +6026,9 @@
    <frame tileid="977" duration="100"/>
    <frame tileid="985" duration="100"/>
    <frame tileid="993" duration="100"/>
+   <frame tileid="1001" duration="100"/>
+   <frame tileid="1009" duration="100"/>
+   <frame tileid="1017" duration="100"/>
   </animation>
  </tile>
  <tile id="962">
@@ -3899,6 +6041,9 @@
    <frame tileid="978" duration="100"/>
    <frame tileid="986" duration="100"/>
    <frame tileid="994" duration="100"/>
+   <frame tileid="1002" duration="100"/>
+   <frame tileid="1010" duration="100"/>
+   <frame tileid="1018" duration="100"/>
   </animation>
  </tile>
  <tile id="963">
@@ -3911,6 +6056,9 @@
    <frame tileid="979" duration="100"/>
    <frame tileid="987" duration="100"/>
    <frame tileid="995" duration="100"/>
+   <frame tileid="1003" duration="100"/>
+   <frame tileid="1011" duration="100"/>
+   <frame tileid="1019" duration="100"/>
   </animation>
  </tile>
  <tile id="964">
@@ -3923,6 +6071,9 @@
    <frame tileid="980" duration="100"/>
    <frame tileid="988" duration="100"/>
    <frame tileid="996" duration="100"/>
+   <frame tileid="1004" duration="100"/>
+   <frame tileid="1012" duration="100"/>
+   <frame tileid="1020" duration="100"/>
   </animation>
  </tile>
  <tile id="965">
@@ -3935,6 +6086,9 @@
    <frame tileid="981" duration="100"/>
    <frame tileid="989" duration="100"/>
    <frame tileid="997" duration="100"/>
+   <frame tileid="1005" duration="100"/>
+   <frame tileid="1013" duration="100"/>
+   <frame tileid="1021" duration="100"/>
   </animation>
  </tile>
  <tile id="966">
@@ -3947,6 +6101,9 @@
    <frame tileid="982" duration="100"/>
    <frame tileid="990" duration="100"/>
    <frame tileid="998" duration="100"/>
+   <frame tileid="1006" duration="100"/>
+   <frame tileid="1014" duration="100"/>
+   <frame tileid="1022" duration="100"/>
   </animation>
  </tile>
  <tile id="967">
@@ -3959,6 +6116,9 @@
    <frame tileid="983" duration="100"/>
    <frame tileid="991" duration="100"/>
    <frame tileid="999" duration="100"/>
+   <frame tileid="1007" duration="100"/>
+   <frame tileid="1015" duration="100"/>
+   <frame tileid="1023" duration="100"/>
   </animation>
  </tile>
  <tile id="968">
@@ -4121,6 +6281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1000">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1001">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1002">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1003">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1004">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1005">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1006">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1007">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1008">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1009">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1010">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1011">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1012">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1013">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1014">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1015">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1016">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1017">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1018">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1019">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1020">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1021">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1022">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1023">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1024">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -4131,6 +6411,9 @@
    <frame tileid="1040" duration="100"/>
    <frame tileid="1048" duration="100"/>
    <frame tileid="1056" duration="100"/>
+   <frame tileid="1064" duration="100"/>
+   <frame tileid="1072" duration="100"/>
+   <frame tileid="1080" duration="100"/>
   </animation>
  </tile>
  <tile id="1025">
@@ -4143,6 +6426,9 @@
    <frame tileid="1041" duration="100"/>
    <frame tileid="1049" duration="100"/>
    <frame tileid="1057" duration="100"/>
+   <frame tileid="1065" duration="100"/>
+   <frame tileid="1073" duration="100"/>
+   <frame tileid="1081" duration="100"/>
   </animation>
  </tile>
  <tile id="1026">
@@ -4155,6 +6441,9 @@
    <frame tileid="1042" duration="100"/>
    <frame tileid="1050" duration="100"/>
    <frame tileid="1058" duration="100"/>
+   <frame tileid="1066" duration="100"/>
+   <frame tileid="1074" duration="100"/>
+   <frame tileid="1082" duration="100"/>
   </animation>
  </tile>
  <tile id="1027">
@@ -4167,6 +6456,9 @@
    <frame tileid="1043" duration="100"/>
    <frame tileid="1051" duration="100"/>
    <frame tileid="1059" duration="100"/>
+   <frame tileid="1067" duration="100"/>
+   <frame tileid="1075" duration="100"/>
+   <frame tileid="1083" duration="100"/>
   </animation>
  </tile>
  <tile id="1028">
@@ -4179,6 +6471,9 @@
    <frame tileid="1044" duration="100"/>
    <frame tileid="1052" duration="100"/>
    <frame tileid="1060" duration="100"/>
+   <frame tileid="1068" duration="100"/>
+   <frame tileid="1076" duration="100"/>
+   <frame tileid="1084" duration="100"/>
   </animation>
  </tile>
  <tile id="1029">
@@ -4191,6 +6486,9 @@
    <frame tileid="1045" duration="100"/>
    <frame tileid="1053" duration="100"/>
    <frame tileid="1061" duration="100"/>
+   <frame tileid="1069" duration="100"/>
+   <frame tileid="1077" duration="100"/>
+   <frame tileid="1085" duration="100"/>
   </animation>
  </tile>
  <tile id="1030">
@@ -4203,6 +6501,9 @@
    <frame tileid="1046" duration="100"/>
    <frame tileid="1054" duration="100"/>
    <frame tileid="1062" duration="100"/>
+   <frame tileid="1070" duration="100"/>
+   <frame tileid="1078" duration="100"/>
+   <frame tileid="1086" duration="100"/>
   </animation>
  </tile>
  <tile id="1031">
@@ -4215,6 +6516,9 @@
    <frame tileid="1047" duration="100"/>
    <frame tileid="1055" duration="100"/>
    <frame tileid="1063" duration="100"/>
+   <frame tileid="1071" duration="100"/>
+   <frame tileid="1079" duration="100"/>
+   <frame tileid="1087" duration="100"/>
   </animation>
  </tile>
  <tile id="1032">
@@ -4377,6 +6681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1064">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1065">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1066">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1067">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1068">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1069">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1070">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1071">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1072">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1073">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1074">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1075">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1076">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1077">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1078">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1079">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1080">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1081">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1082">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1083">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1084">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1085">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1086">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1087">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1088">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -4387,6 +6811,9 @@
    <frame tileid="1104" duration="100"/>
    <frame tileid="1112" duration="100"/>
    <frame tileid="1120" duration="100"/>
+   <frame tileid="1128" duration="100"/>
+   <frame tileid="1136" duration="100"/>
+   <frame tileid="1144" duration="100"/>
   </animation>
  </tile>
  <tile id="1089">
@@ -4399,6 +6826,9 @@
    <frame tileid="1105" duration="100"/>
    <frame tileid="1113" duration="100"/>
    <frame tileid="1121" duration="100"/>
+   <frame tileid="1129" duration="100"/>
+   <frame tileid="1137" duration="100"/>
+   <frame tileid="1145" duration="100"/>
   </animation>
  </tile>
  <tile id="1090">
@@ -4411,6 +6841,9 @@
    <frame tileid="1106" duration="100"/>
    <frame tileid="1114" duration="100"/>
    <frame tileid="1122" duration="100"/>
+   <frame tileid="1130" duration="100"/>
+   <frame tileid="1138" duration="100"/>
+   <frame tileid="1146" duration="100"/>
   </animation>
  </tile>
  <tile id="1091">
@@ -4423,6 +6856,9 @@
    <frame tileid="1107" duration="100"/>
    <frame tileid="1115" duration="100"/>
    <frame tileid="1123" duration="100"/>
+   <frame tileid="1131" duration="100"/>
+   <frame tileid="1139" duration="100"/>
+   <frame tileid="1147" duration="100"/>
   </animation>
  </tile>
  <tile id="1092">
@@ -4435,6 +6871,9 @@
    <frame tileid="1108" duration="100"/>
    <frame tileid="1116" duration="100"/>
    <frame tileid="1124" duration="100"/>
+   <frame tileid="1132" duration="100"/>
+   <frame tileid="1140" duration="100"/>
+   <frame tileid="1148" duration="100"/>
   </animation>
  </tile>
  <tile id="1093">
@@ -4447,6 +6886,9 @@
    <frame tileid="1109" duration="100"/>
    <frame tileid="1117" duration="100"/>
    <frame tileid="1125" duration="100"/>
+   <frame tileid="1133" duration="100"/>
+   <frame tileid="1141" duration="100"/>
+   <frame tileid="1149" duration="100"/>
   </animation>
  </tile>
  <tile id="1094">
@@ -4459,6 +6901,9 @@
    <frame tileid="1110" duration="100"/>
    <frame tileid="1118" duration="100"/>
    <frame tileid="1126" duration="100"/>
+   <frame tileid="1134" duration="100"/>
+   <frame tileid="1142" duration="100"/>
+   <frame tileid="1150" duration="100"/>
   </animation>
  </tile>
  <tile id="1095">
@@ -4471,6 +6916,9 @@
    <frame tileid="1111" duration="100"/>
    <frame tileid="1119" duration="100"/>
    <frame tileid="1127" duration="100"/>
+   <frame tileid="1135" duration="100"/>
+   <frame tileid="1143" duration="100"/>
+   <frame tileid="1151" duration="100"/>
   </animation>
  </tile>
  <tile id="1096">
@@ -4633,6 +7081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1128">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1129">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1130">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1131">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1132">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1133">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1134">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1135">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1136">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1137">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1138">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1139">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1140">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1141">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1142">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1143">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1144">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1145">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1146">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1147">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1148">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1149">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1150">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1151">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1152">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -4643,6 +7211,9 @@
    <frame tileid="1168" duration="100"/>
    <frame tileid="1176" duration="100"/>
    <frame tileid="1184" duration="100"/>
+   <frame tileid="1192" duration="100"/>
+   <frame tileid="1200" duration="100"/>
+   <frame tileid="1208" duration="100"/>
   </animation>
  </tile>
  <tile id="1153">
@@ -4655,6 +7226,9 @@
    <frame tileid="1169" duration="100"/>
    <frame tileid="1177" duration="100"/>
    <frame tileid="1185" duration="100"/>
+   <frame tileid="1193" duration="100"/>
+   <frame tileid="1201" duration="100"/>
+   <frame tileid="1209" duration="100"/>
   </animation>
  </tile>
  <tile id="1154">
@@ -4667,6 +7241,9 @@
    <frame tileid="1170" duration="100"/>
    <frame tileid="1178" duration="100"/>
    <frame tileid="1186" duration="100"/>
+   <frame tileid="1194" duration="100"/>
+   <frame tileid="1202" duration="100"/>
+   <frame tileid="1210" duration="100"/>
   </animation>
  </tile>
  <tile id="1155">
@@ -4679,6 +7256,9 @@
    <frame tileid="1171" duration="100"/>
    <frame tileid="1179" duration="100"/>
    <frame tileid="1187" duration="100"/>
+   <frame tileid="1195" duration="100"/>
+   <frame tileid="1203" duration="100"/>
+   <frame tileid="1211" duration="100"/>
   </animation>
  </tile>
  <tile id="1156">
@@ -4691,6 +7271,9 @@
    <frame tileid="1172" duration="100"/>
    <frame tileid="1180" duration="100"/>
    <frame tileid="1188" duration="100"/>
+   <frame tileid="1196" duration="100"/>
+   <frame tileid="1204" duration="100"/>
+   <frame tileid="1212" duration="100"/>
   </animation>
  </tile>
  <tile id="1157">
@@ -4703,6 +7286,9 @@
    <frame tileid="1173" duration="100"/>
    <frame tileid="1181" duration="100"/>
    <frame tileid="1189" duration="100"/>
+   <frame tileid="1197" duration="100"/>
+   <frame tileid="1205" duration="100"/>
+   <frame tileid="1213" duration="100"/>
   </animation>
  </tile>
  <tile id="1158">
@@ -4715,6 +7301,9 @@
    <frame tileid="1174" duration="100"/>
    <frame tileid="1182" duration="100"/>
    <frame tileid="1190" duration="100"/>
+   <frame tileid="1198" duration="100"/>
+   <frame tileid="1206" duration="100"/>
+   <frame tileid="1214" duration="100"/>
   </animation>
  </tile>
  <tile id="1159">
@@ -4727,6 +7316,9 @@
    <frame tileid="1175" duration="100"/>
    <frame tileid="1183" duration="100"/>
    <frame tileid="1191" duration="100"/>
+   <frame tileid="1199" duration="100"/>
+   <frame tileid="1207" duration="100"/>
+   <frame tileid="1215" duration="100"/>
   </animation>
  </tile>
  <tile id="1160">
@@ -4889,6 +7481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1192">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1193">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1194">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1195">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1196">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1197">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1198">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1199">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1200">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1201">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1202">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1203">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1204">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1205">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1206">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1207">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1208">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1209">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1210">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1211">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1212">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1213">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1214">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1215">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1216">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -4899,6 +7611,9 @@
    <frame tileid="1232" duration="100"/>
    <frame tileid="1240" duration="100"/>
    <frame tileid="1248" duration="100"/>
+   <frame tileid="1256" duration="100"/>
+   <frame tileid="1264" duration="100"/>
+   <frame tileid="1272" duration="100"/>
   </animation>
  </tile>
  <tile id="1217">
@@ -4911,6 +7626,9 @@
    <frame tileid="1233" duration="100"/>
    <frame tileid="1241" duration="100"/>
    <frame tileid="1249" duration="100"/>
+   <frame tileid="1257" duration="100"/>
+   <frame tileid="1265" duration="100"/>
+   <frame tileid="1273" duration="100"/>
   </animation>
  </tile>
  <tile id="1218">
@@ -4923,6 +7641,9 @@
    <frame tileid="1234" duration="100"/>
    <frame tileid="1242" duration="100"/>
    <frame tileid="1250" duration="100"/>
+   <frame tileid="1258" duration="100"/>
+   <frame tileid="1266" duration="100"/>
+   <frame tileid="1274" duration="100"/>
   </animation>
  </tile>
  <tile id="1219">
@@ -4935,6 +7656,9 @@
    <frame tileid="1235" duration="100"/>
    <frame tileid="1243" duration="100"/>
    <frame tileid="1251" duration="100"/>
+   <frame tileid="1259" duration="100"/>
+   <frame tileid="1267" duration="100"/>
+   <frame tileid="1275" duration="100"/>
   </animation>
  </tile>
  <tile id="1220">
@@ -4947,6 +7671,9 @@
    <frame tileid="1236" duration="100"/>
    <frame tileid="1244" duration="100"/>
    <frame tileid="1252" duration="100"/>
+   <frame tileid="1260" duration="100"/>
+   <frame tileid="1268" duration="100"/>
+   <frame tileid="1276" duration="100"/>
   </animation>
  </tile>
  <tile id="1221">
@@ -4959,6 +7686,9 @@
    <frame tileid="1237" duration="100"/>
    <frame tileid="1245" duration="100"/>
    <frame tileid="1253" duration="100"/>
+   <frame tileid="1261" duration="100"/>
+   <frame tileid="1269" duration="100"/>
+   <frame tileid="1277" duration="100"/>
   </animation>
  </tile>
  <tile id="1222">
@@ -4971,6 +7701,9 @@
    <frame tileid="1238" duration="100"/>
    <frame tileid="1246" duration="100"/>
    <frame tileid="1254" duration="100"/>
+   <frame tileid="1262" duration="100"/>
+   <frame tileid="1270" duration="100"/>
+   <frame tileid="1278" duration="100"/>
   </animation>
  </tile>
  <tile id="1223">
@@ -4983,6 +7716,9 @@
    <frame tileid="1239" duration="100"/>
    <frame tileid="1247" duration="100"/>
    <frame tileid="1255" duration="100"/>
+   <frame tileid="1263" duration="100"/>
+   <frame tileid="1271" duration="100"/>
+   <frame tileid="1279" duration="100"/>
   </animation>
  </tile>
  <tile id="1224">
@@ -5145,6 +7881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1256">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1257">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1258">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1259">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1260">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1261">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1262">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1263">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1264">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1265">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1266">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1267">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1268">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1269">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1270">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1271">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1272">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1273">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1274">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1275">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1276">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1277">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1278">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1279">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1280">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -5155,6 +8011,9 @@
    <frame tileid="1296" duration="100"/>
    <frame tileid="1304" duration="100"/>
    <frame tileid="1312" duration="100"/>
+   <frame tileid="1320" duration="100"/>
+   <frame tileid="1328" duration="100"/>
+   <frame tileid="1336" duration="100"/>
   </animation>
  </tile>
  <tile id="1281">
@@ -5167,6 +8026,9 @@
    <frame tileid="1297" duration="100"/>
    <frame tileid="1305" duration="100"/>
    <frame tileid="1313" duration="100"/>
+   <frame tileid="1321" duration="100"/>
+   <frame tileid="1329" duration="100"/>
+   <frame tileid="1337" duration="100"/>
   </animation>
  </tile>
  <tile id="1282">
@@ -5179,6 +8041,9 @@
    <frame tileid="1298" duration="100"/>
    <frame tileid="1306" duration="100"/>
    <frame tileid="1314" duration="100"/>
+   <frame tileid="1322" duration="100"/>
+   <frame tileid="1330" duration="100"/>
+   <frame tileid="1338" duration="100"/>
   </animation>
  </tile>
  <tile id="1283">
@@ -5191,6 +8056,9 @@
    <frame tileid="1299" duration="100"/>
    <frame tileid="1307" duration="100"/>
    <frame tileid="1315" duration="100"/>
+   <frame tileid="1323" duration="100"/>
+   <frame tileid="1331" duration="100"/>
+   <frame tileid="1339" duration="100"/>
   </animation>
  </tile>
  <tile id="1284">
@@ -5203,6 +8071,9 @@
    <frame tileid="1300" duration="100"/>
    <frame tileid="1308" duration="100"/>
    <frame tileid="1316" duration="100"/>
+   <frame tileid="1324" duration="100"/>
+   <frame tileid="1332" duration="100"/>
+   <frame tileid="1340" duration="100"/>
   </animation>
  </tile>
  <tile id="1285">
@@ -5215,6 +8086,9 @@
    <frame tileid="1301" duration="100"/>
    <frame tileid="1309" duration="100"/>
    <frame tileid="1317" duration="100"/>
+   <frame tileid="1325" duration="100"/>
+   <frame tileid="1333" duration="100"/>
+   <frame tileid="1341" duration="100"/>
   </animation>
  </tile>
  <tile id="1286">
@@ -5227,6 +8101,9 @@
    <frame tileid="1302" duration="100"/>
    <frame tileid="1310" duration="100"/>
    <frame tileid="1318" duration="100"/>
+   <frame tileid="1326" duration="100"/>
+   <frame tileid="1334" duration="100"/>
+   <frame tileid="1342" duration="100"/>
   </animation>
  </tile>
  <tile id="1287">
@@ -5239,6 +8116,9 @@
    <frame tileid="1303" duration="100"/>
    <frame tileid="1311" duration="100"/>
    <frame tileid="1319" duration="100"/>
+   <frame tileid="1327" duration="100"/>
+   <frame tileid="1335" duration="100"/>
+   <frame tileid="1343" duration="100"/>
   </animation>
  </tile>
  <tile id="1288">
@@ -5401,6 +8281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1320">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1321">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1322">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1323">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1324">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1325">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1326">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1327">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1328">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1329">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1330">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1331">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1332">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1333">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1334">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1335">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1336">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1337">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1338">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1339">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1340">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1341">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1342">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1343">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1344">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -5411,6 +8411,9 @@
    <frame tileid="1360" duration="100"/>
    <frame tileid="1368" duration="100"/>
    <frame tileid="1376" duration="100"/>
+   <frame tileid="1384" duration="100"/>
+   <frame tileid="1392" duration="100"/>
+   <frame tileid="1400" duration="100"/>
   </animation>
  </tile>
  <tile id="1345">
@@ -5423,6 +8426,9 @@
    <frame tileid="1361" duration="100"/>
    <frame tileid="1369" duration="100"/>
    <frame tileid="1377" duration="100"/>
+   <frame tileid="1385" duration="100"/>
+   <frame tileid="1393" duration="100"/>
+   <frame tileid="1401" duration="100"/>
   </animation>
  </tile>
  <tile id="1346">
@@ -5435,6 +8441,9 @@
    <frame tileid="1362" duration="100"/>
    <frame tileid="1370" duration="100"/>
    <frame tileid="1378" duration="100"/>
+   <frame tileid="1386" duration="100"/>
+   <frame tileid="1394" duration="100"/>
+   <frame tileid="1402" duration="100"/>
   </animation>
  </tile>
  <tile id="1347">
@@ -5447,6 +8456,9 @@
    <frame tileid="1363" duration="100"/>
    <frame tileid="1371" duration="100"/>
    <frame tileid="1379" duration="100"/>
+   <frame tileid="1387" duration="100"/>
+   <frame tileid="1395" duration="100"/>
+   <frame tileid="1403" duration="100"/>
   </animation>
  </tile>
  <tile id="1348">
@@ -5459,6 +8471,9 @@
    <frame tileid="1364" duration="100"/>
    <frame tileid="1372" duration="100"/>
    <frame tileid="1380" duration="100"/>
+   <frame tileid="1388" duration="100"/>
+   <frame tileid="1396" duration="100"/>
+   <frame tileid="1404" duration="100"/>
   </animation>
  </tile>
  <tile id="1349">
@@ -5471,6 +8486,9 @@
    <frame tileid="1365" duration="100"/>
    <frame tileid="1373" duration="100"/>
    <frame tileid="1381" duration="100"/>
+   <frame tileid="1389" duration="100"/>
+   <frame tileid="1397" duration="100"/>
+   <frame tileid="1405" duration="100"/>
   </animation>
  </tile>
  <tile id="1350">
@@ -5483,6 +8501,9 @@
    <frame tileid="1366" duration="100"/>
    <frame tileid="1374" duration="100"/>
    <frame tileid="1382" duration="100"/>
+   <frame tileid="1390" duration="100"/>
+   <frame tileid="1398" duration="100"/>
+   <frame tileid="1406" duration="100"/>
   </animation>
  </tile>
  <tile id="1351">
@@ -5495,6 +8516,9 @@
    <frame tileid="1367" duration="100"/>
    <frame tileid="1375" duration="100"/>
    <frame tileid="1383" duration="100"/>
+   <frame tileid="1391" duration="100"/>
+   <frame tileid="1399" duration="100"/>
+   <frame tileid="1407" duration="100"/>
   </animation>
  </tile>
  <tile id="1352">
@@ -5657,6 +8681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1384">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1385">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1386">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1387">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1388">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1389">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1390">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1391">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1392">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1393">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1394">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1395">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1396">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1397">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1398">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1399">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1400">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1401">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1402">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1403">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1404">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1405">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1406">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1407">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1408">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -5667,6 +8811,9 @@
    <frame tileid="1424" duration="100"/>
    <frame tileid="1432" duration="100"/>
    <frame tileid="1440" duration="100"/>
+   <frame tileid="1448" duration="100"/>
+   <frame tileid="1456" duration="100"/>
+   <frame tileid="1464" duration="100"/>
   </animation>
  </tile>
  <tile id="1409">
@@ -5679,6 +8826,9 @@
    <frame tileid="1425" duration="100"/>
    <frame tileid="1433" duration="100"/>
    <frame tileid="1441" duration="100"/>
+   <frame tileid="1449" duration="100"/>
+   <frame tileid="1457" duration="100"/>
+   <frame tileid="1465" duration="100"/>
   </animation>
  </tile>
  <tile id="1410">
@@ -5691,6 +8841,9 @@
    <frame tileid="1426" duration="100"/>
    <frame tileid="1434" duration="100"/>
    <frame tileid="1442" duration="100"/>
+   <frame tileid="1450" duration="100"/>
+   <frame tileid="1458" duration="100"/>
+   <frame tileid="1466" duration="100"/>
   </animation>
  </tile>
  <tile id="1411">
@@ -5703,6 +8856,9 @@
    <frame tileid="1427" duration="100"/>
    <frame tileid="1435" duration="100"/>
    <frame tileid="1443" duration="100"/>
+   <frame tileid="1451" duration="100"/>
+   <frame tileid="1459" duration="100"/>
+   <frame tileid="1467" duration="100"/>
   </animation>
  </tile>
  <tile id="1412">
@@ -5715,6 +8871,9 @@
    <frame tileid="1428" duration="100"/>
    <frame tileid="1436" duration="100"/>
    <frame tileid="1444" duration="100"/>
+   <frame tileid="1452" duration="100"/>
+   <frame tileid="1460" duration="100"/>
+   <frame tileid="1468" duration="100"/>
   </animation>
  </tile>
  <tile id="1413">
@@ -5727,6 +8886,9 @@
    <frame tileid="1429" duration="100"/>
    <frame tileid="1437" duration="100"/>
    <frame tileid="1445" duration="100"/>
+   <frame tileid="1453" duration="100"/>
+   <frame tileid="1461" duration="100"/>
+   <frame tileid="1469" duration="100"/>
   </animation>
  </tile>
  <tile id="1414">
@@ -5739,6 +8901,9 @@
    <frame tileid="1430" duration="100"/>
    <frame tileid="1438" duration="100"/>
    <frame tileid="1446" duration="100"/>
+   <frame tileid="1454" duration="100"/>
+   <frame tileid="1462" duration="100"/>
+   <frame tileid="1470" duration="100"/>
   </animation>
  </tile>
  <tile id="1415">
@@ -5751,6 +8916,9 @@
    <frame tileid="1431" duration="100"/>
    <frame tileid="1439" duration="100"/>
    <frame tileid="1447" duration="100"/>
+   <frame tileid="1455" duration="100"/>
+   <frame tileid="1463" duration="100"/>
+   <frame tileid="1471" duration="100"/>
   </animation>
  </tile>
  <tile id="1416">
@@ -5913,6 +9081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1448">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1449">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1450">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1451">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1452">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1453">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1454">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1455">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1456">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1457">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1458">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1459">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1460">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1461">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1462">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1463">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1464">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1465">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1466">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1467">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1468">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1469">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1470">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1471">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1472">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -5923,6 +9211,9 @@
    <frame tileid="1488" duration="100"/>
    <frame tileid="1496" duration="100"/>
    <frame tileid="1504" duration="100"/>
+   <frame tileid="1512" duration="100"/>
+   <frame tileid="1520" duration="100"/>
+   <frame tileid="1528" duration="100"/>
   </animation>
  </tile>
  <tile id="1473">
@@ -5935,6 +9226,9 @@
    <frame tileid="1489" duration="100"/>
    <frame tileid="1497" duration="100"/>
    <frame tileid="1505" duration="100"/>
+   <frame tileid="1513" duration="100"/>
+   <frame tileid="1521" duration="100"/>
+   <frame tileid="1529" duration="100"/>
   </animation>
  </tile>
  <tile id="1474">
@@ -5947,6 +9241,9 @@
    <frame tileid="1490" duration="100"/>
    <frame tileid="1498" duration="100"/>
    <frame tileid="1506" duration="100"/>
+   <frame tileid="1514" duration="100"/>
+   <frame tileid="1522" duration="100"/>
+   <frame tileid="1530" duration="100"/>
   </animation>
  </tile>
  <tile id="1475">
@@ -5959,6 +9256,9 @@
    <frame tileid="1491" duration="100"/>
    <frame tileid="1499" duration="100"/>
    <frame tileid="1507" duration="100"/>
+   <frame tileid="1515" duration="100"/>
+   <frame tileid="1523" duration="100"/>
+   <frame tileid="1531" duration="100"/>
   </animation>
  </tile>
  <tile id="1476">
@@ -5971,6 +9271,9 @@
    <frame tileid="1492" duration="100"/>
    <frame tileid="1500" duration="100"/>
    <frame tileid="1508" duration="100"/>
+   <frame tileid="1516" duration="100"/>
+   <frame tileid="1524" duration="100"/>
+   <frame tileid="1532" duration="100"/>
   </animation>
  </tile>
  <tile id="1477">
@@ -5983,6 +9286,9 @@
    <frame tileid="1493" duration="100"/>
    <frame tileid="1501" duration="100"/>
    <frame tileid="1509" duration="100"/>
+   <frame tileid="1517" duration="100"/>
+   <frame tileid="1525" duration="100"/>
+   <frame tileid="1533" duration="100"/>
   </animation>
  </tile>
  <tile id="1478">
@@ -5995,6 +9301,9 @@
    <frame tileid="1494" duration="100"/>
    <frame tileid="1502" duration="100"/>
    <frame tileid="1510" duration="100"/>
+   <frame tileid="1518" duration="100"/>
+   <frame tileid="1526" duration="100"/>
+   <frame tileid="1534" duration="100"/>
   </animation>
  </tile>
  <tile id="1479">
@@ -6007,6 +9316,9 @@
    <frame tileid="1495" duration="100"/>
    <frame tileid="1503" duration="100"/>
    <frame tileid="1511" duration="100"/>
+   <frame tileid="1519" duration="100"/>
+   <frame tileid="1527" duration="100"/>
+   <frame tileid="1535" duration="100"/>
   </animation>
  </tile>
  <tile id="1480">
@@ -6169,6 +9481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1512">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1513">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1514">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1515">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1516">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1517">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1518">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1519">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1520">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1521">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1522">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1523">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1524">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1525">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1526">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1527">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1528">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1529">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1530">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1531">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1532">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1533">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1534">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1535">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1536">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -6179,6 +9611,9 @@
    <frame tileid="1552" duration="100"/>
    <frame tileid="1560" duration="100"/>
    <frame tileid="1568" duration="100"/>
+   <frame tileid="1576" duration="100"/>
+   <frame tileid="1584" duration="100"/>
+   <frame tileid="1592" duration="100"/>
   </animation>
  </tile>
  <tile id="1537">
@@ -6191,6 +9626,9 @@
    <frame tileid="1553" duration="100"/>
    <frame tileid="1561" duration="100"/>
    <frame tileid="1569" duration="100"/>
+   <frame tileid="1577" duration="100"/>
+   <frame tileid="1585" duration="100"/>
+   <frame tileid="1593" duration="100"/>
   </animation>
  </tile>
  <tile id="1538">
@@ -6203,6 +9641,9 @@
    <frame tileid="1554" duration="100"/>
    <frame tileid="1562" duration="100"/>
    <frame tileid="1570" duration="100"/>
+   <frame tileid="1578" duration="100"/>
+   <frame tileid="1586" duration="100"/>
+   <frame tileid="1594" duration="100"/>
   </animation>
  </tile>
  <tile id="1539">
@@ -6215,6 +9656,9 @@
    <frame tileid="1555" duration="100"/>
    <frame tileid="1563" duration="100"/>
    <frame tileid="1571" duration="100"/>
+   <frame tileid="1579" duration="100"/>
+   <frame tileid="1587" duration="100"/>
+   <frame tileid="1595" duration="100"/>
   </animation>
  </tile>
  <tile id="1540">
@@ -6227,6 +9671,9 @@
    <frame tileid="1556" duration="100"/>
    <frame tileid="1564" duration="100"/>
    <frame tileid="1572" duration="100"/>
+   <frame tileid="1580" duration="100"/>
+   <frame tileid="1588" duration="100"/>
+   <frame tileid="1596" duration="100"/>
   </animation>
  </tile>
  <tile id="1541">
@@ -6239,6 +9686,9 @@
    <frame tileid="1557" duration="100"/>
    <frame tileid="1565" duration="100"/>
    <frame tileid="1573" duration="100"/>
+   <frame tileid="1581" duration="100"/>
+   <frame tileid="1589" duration="100"/>
+   <frame tileid="1597" duration="100"/>
   </animation>
  </tile>
  <tile id="1542">
@@ -6251,6 +9701,9 @@
    <frame tileid="1558" duration="100"/>
    <frame tileid="1566" duration="100"/>
    <frame tileid="1574" duration="100"/>
+   <frame tileid="1582" duration="100"/>
+   <frame tileid="1590" duration="100"/>
+   <frame tileid="1598" duration="100"/>
   </animation>
  </tile>
  <tile id="1543">
@@ -6263,6 +9716,9 @@
    <frame tileid="1559" duration="100"/>
    <frame tileid="1567" duration="100"/>
    <frame tileid="1575" duration="100"/>
+   <frame tileid="1583" duration="100"/>
+   <frame tileid="1591" duration="100"/>
+   <frame tileid="1599" duration="100"/>
   </animation>
  </tile>
  <tile id="1544">
@@ -6425,6 +9881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1576">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1577">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1578">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1579">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1580">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1581">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1582">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1583">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1584">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1585">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1586">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1587">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1588">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1589">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1590">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1591">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1592">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1593">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1594">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1595">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1596">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1597">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1598">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1599">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1600">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -6435,6 +10011,9 @@
    <frame tileid="1616" duration="100"/>
    <frame tileid="1624" duration="100"/>
    <frame tileid="1632" duration="100"/>
+   <frame tileid="1640" duration="100"/>
+   <frame tileid="1648" duration="100"/>
+   <frame tileid="1656" duration="100"/>
   </animation>
  </tile>
  <tile id="1601">
@@ -6447,6 +10026,9 @@
    <frame tileid="1617" duration="100"/>
    <frame tileid="1625" duration="100"/>
    <frame tileid="1633" duration="100"/>
+   <frame tileid="1641" duration="100"/>
+   <frame tileid="1649" duration="100"/>
+   <frame tileid="1657" duration="100"/>
   </animation>
  </tile>
  <tile id="1602">
@@ -6459,6 +10041,9 @@
    <frame tileid="1618" duration="100"/>
    <frame tileid="1626" duration="100"/>
    <frame tileid="1634" duration="100"/>
+   <frame tileid="1642" duration="100"/>
+   <frame tileid="1650" duration="100"/>
+   <frame tileid="1658" duration="100"/>
   </animation>
  </tile>
  <tile id="1603">
@@ -6471,6 +10056,9 @@
    <frame tileid="1619" duration="100"/>
    <frame tileid="1627" duration="100"/>
    <frame tileid="1635" duration="100"/>
+   <frame tileid="1643" duration="100"/>
+   <frame tileid="1651" duration="100"/>
+   <frame tileid="1659" duration="100"/>
   </animation>
  </tile>
  <tile id="1604">
@@ -6483,6 +10071,9 @@
    <frame tileid="1620" duration="100"/>
    <frame tileid="1628" duration="100"/>
    <frame tileid="1636" duration="100"/>
+   <frame tileid="1644" duration="100"/>
+   <frame tileid="1652" duration="100"/>
+   <frame tileid="1660" duration="100"/>
   </animation>
  </tile>
  <tile id="1605">
@@ -6495,6 +10086,9 @@
    <frame tileid="1621" duration="100"/>
    <frame tileid="1629" duration="100"/>
    <frame tileid="1637" duration="100"/>
+   <frame tileid="1645" duration="100"/>
+   <frame tileid="1653" duration="100"/>
+   <frame tileid="1661" duration="100"/>
   </animation>
  </tile>
  <tile id="1606">
@@ -6507,6 +10101,9 @@
    <frame tileid="1622" duration="100"/>
    <frame tileid="1630" duration="100"/>
    <frame tileid="1638" duration="100"/>
+   <frame tileid="1646" duration="100"/>
+   <frame tileid="1654" duration="100"/>
+   <frame tileid="1662" duration="100"/>
   </animation>
  </tile>
  <tile id="1607">
@@ -6519,6 +10116,9 @@
    <frame tileid="1623" duration="100"/>
    <frame tileid="1631" duration="100"/>
    <frame tileid="1639" duration="100"/>
+   <frame tileid="1647" duration="100"/>
+   <frame tileid="1655" duration="100"/>
+   <frame tileid="1663" duration="100"/>
   </animation>
  </tile>
  <tile id="1608">
@@ -6681,6 +10281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1640">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1641">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1642">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1643">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1644">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1645">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1646">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1647">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1648">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1649">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1650">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1651">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1652">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1653">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1654">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1655">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1656">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1657">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1658">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1659">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1660">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1661">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1662">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1663">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1664">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -6691,6 +10411,9 @@
    <frame tileid="1680" duration="100"/>
    <frame tileid="1688" duration="100"/>
    <frame tileid="1696" duration="100"/>
+   <frame tileid="1704" duration="100"/>
+   <frame tileid="1712" duration="100"/>
+   <frame tileid="1720" duration="100"/>
   </animation>
  </tile>
  <tile id="1665">
@@ -6703,6 +10426,9 @@
    <frame tileid="1681" duration="100"/>
    <frame tileid="1689" duration="100"/>
    <frame tileid="1697" duration="100"/>
+   <frame tileid="1705" duration="100"/>
+   <frame tileid="1713" duration="100"/>
+   <frame tileid="1721" duration="100"/>
   </animation>
  </tile>
  <tile id="1666">
@@ -6715,6 +10441,9 @@
    <frame tileid="1682" duration="100"/>
    <frame tileid="1690" duration="100"/>
    <frame tileid="1698" duration="100"/>
+   <frame tileid="1706" duration="100"/>
+   <frame tileid="1714" duration="100"/>
+   <frame tileid="1722" duration="100"/>
   </animation>
  </tile>
  <tile id="1667">
@@ -6727,6 +10456,9 @@
    <frame tileid="1683" duration="100"/>
    <frame tileid="1691" duration="100"/>
    <frame tileid="1699" duration="100"/>
+   <frame tileid="1707" duration="100"/>
+   <frame tileid="1715" duration="100"/>
+   <frame tileid="1723" duration="100"/>
   </animation>
  </tile>
  <tile id="1668">
@@ -6739,6 +10471,9 @@
    <frame tileid="1684" duration="100"/>
    <frame tileid="1692" duration="100"/>
    <frame tileid="1700" duration="100"/>
+   <frame tileid="1708" duration="100"/>
+   <frame tileid="1716" duration="100"/>
+   <frame tileid="1724" duration="100"/>
   </animation>
  </tile>
  <tile id="1669">
@@ -6751,6 +10486,9 @@
    <frame tileid="1685" duration="100"/>
    <frame tileid="1693" duration="100"/>
    <frame tileid="1701" duration="100"/>
+   <frame tileid="1709" duration="100"/>
+   <frame tileid="1717" duration="100"/>
+   <frame tileid="1725" duration="100"/>
   </animation>
  </tile>
  <tile id="1670">
@@ -6763,6 +10501,9 @@
    <frame tileid="1686" duration="100"/>
    <frame tileid="1694" duration="100"/>
    <frame tileid="1702" duration="100"/>
+   <frame tileid="1710" duration="100"/>
+   <frame tileid="1718" duration="100"/>
+   <frame tileid="1726" duration="100"/>
   </animation>
  </tile>
  <tile id="1671">
@@ -6775,6 +10516,9 @@
    <frame tileid="1687" duration="100"/>
    <frame tileid="1695" duration="100"/>
    <frame tileid="1703" duration="100"/>
+   <frame tileid="1711" duration="100"/>
+   <frame tileid="1719" duration="100"/>
+   <frame tileid="1727" duration="100"/>
   </animation>
  </tile>
  <tile id="1672">
@@ -6937,6 +10681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1704">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1705">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1706">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1707">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1708">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1709">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1710">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1711">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1712">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1713">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1714">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1715">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1716">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1717">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1718">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1719">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1720">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1721">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1722">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1723">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1724">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1725">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1726">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1727">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1728">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -6947,6 +10811,9 @@
    <frame tileid="1744" duration="100"/>
    <frame tileid="1752" duration="100"/>
    <frame tileid="1760" duration="100"/>
+   <frame tileid="1768" duration="100"/>
+   <frame tileid="1776" duration="100"/>
+   <frame tileid="1784" duration="100"/>
   </animation>
  </tile>
  <tile id="1729">
@@ -6959,6 +10826,9 @@
    <frame tileid="1745" duration="100"/>
    <frame tileid="1753" duration="100"/>
    <frame tileid="1761" duration="100"/>
+   <frame tileid="1769" duration="100"/>
+   <frame tileid="1777" duration="100"/>
+   <frame tileid="1785" duration="100"/>
   </animation>
  </tile>
  <tile id="1730">
@@ -6971,6 +10841,9 @@
    <frame tileid="1746" duration="100"/>
    <frame tileid="1754" duration="100"/>
    <frame tileid="1762" duration="100"/>
+   <frame tileid="1770" duration="100"/>
+   <frame tileid="1778" duration="100"/>
+   <frame tileid="1786" duration="100"/>
   </animation>
  </tile>
  <tile id="1731">
@@ -6983,6 +10856,9 @@
    <frame tileid="1747" duration="100"/>
    <frame tileid="1755" duration="100"/>
    <frame tileid="1763" duration="100"/>
+   <frame tileid="1771" duration="100"/>
+   <frame tileid="1779" duration="100"/>
+   <frame tileid="1787" duration="100"/>
   </animation>
  </tile>
  <tile id="1732">
@@ -6995,6 +10871,9 @@
    <frame tileid="1748" duration="100"/>
    <frame tileid="1756" duration="100"/>
    <frame tileid="1764" duration="100"/>
+   <frame tileid="1772" duration="100"/>
+   <frame tileid="1780" duration="100"/>
+   <frame tileid="1788" duration="100"/>
   </animation>
  </tile>
  <tile id="1733">
@@ -7007,6 +10886,9 @@
    <frame tileid="1749" duration="100"/>
    <frame tileid="1757" duration="100"/>
    <frame tileid="1765" duration="100"/>
+   <frame tileid="1773" duration="100"/>
+   <frame tileid="1781" duration="100"/>
+   <frame tileid="1789" duration="100"/>
   </animation>
  </tile>
  <tile id="1734">
@@ -7019,6 +10901,9 @@
    <frame tileid="1750" duration="100"/>
    <frame tileid="1758" duration="100"/>
    <frame tileid="1766" duration="100"/>
+   <frame tileid="1774" duration="100"/>
+   <frame tileid="1782" duration="100"/>
+   <frame tileid="1790" duration="100"/>
   </animation>
  </tile>
  <tile id="1735">
@@ -7031,6 +10916,9 @@
    <frame tileid="1751" duration="100"/>
    <frame tileid="1759" duration="100"/>
    <frame tileid="1767" duration="100"/>
+   <frame tileid="1775" duration="100"/>
+   <frame tileid="1783" duration="100"/>
+   <frame tileid="1791" duration="100"/>
   </animation>
  </tile>
  <tile id="1736">
@@ -7193,6 +11081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1768">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1769">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1770">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1771">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1772">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1773">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1774">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1775">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1776">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1777">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1778">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1779">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1780">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1781">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1782">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1783">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1784">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1785">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1786">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1787">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1788">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1789">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1790">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1791">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1792">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -7203,6 +11211,9 @@
    <frame tileid="1808" duration="100"/>
    <frame tileid="1816" duration="100"/>
    <frame tileid="1824" duration="100"/>
+   <frame tileid="1832" duration="100"/>
+   <frame tileid="1840" duration="100"/>
+   <frame tileid="1848" duration="100"/>
   </animation>
  </tile>
  <tile id="1793">
@@ -7215,6 +11226,9 @@
    <frame tileid="1809" duration="100"/>
    <frame tileid="1817" duration="100"/>
    <frame tileid="1825" duration="100"/>
+   <frame tileid="1833" duration="100"/>
+   <frame tileid="1841" duration="100"/>
+   <frame tileid="1849" duration="100"/>
   </animation>
  </tile>
  <tile id="1794">
@@ -7227,6 +11241,9 @@
    <frame tileid="1810" duration="100"/>
    <frame tileid="1818" duration="100"/>
    <frame tileid="1826" duration="100"/>
+   <frame tileid="1834" duration="100"/>
+   <frame tileid="1842" duration="100"/>
+   <frame tileid="1850" duration="100"/>
   </animation>
  </tile>
  <tile id="1795">
@@ -7239,6 +11256,9 @@
    <frame tileid="1811" duration="100"/>
    <frame tileid="1819" duration="100"/>
    <frame tileid="1827" duration="100"/>
+   <frame tileid="1835" duration="100"/>
+   <frame tileid="1843" duration="100"/>
+   <frame tileid="1851" duration="100"/>
   </animation>
  </tile>
  <tile id="1796">
@@ -7251,6 +11271,9 @@
    <frame tileid="1812" duration="100"/>
    <frame tileid="1820" duration="100"/>
    <frame tileid="1828" duration="100"/>
+   <frame tileid="1836" duration="100"/>
+   <frame tileid="1844" duration="100"/>
+   <frame tileid="1852" duration="100"/>
   </animation>
  </tile>
  <tile id="1797">
@@ -7263,6 +11286,9 @@
    <frame tileid="1813" duration="100"/>
    <frame tileid="1821" duration="100"/>
    <frame tileid="1829" duration="100"/>
+   <frame tileid="1837" duration="100"/>
+   <frame tileid="1845" duration="100"/>
+   <frame tileid="1853" duration="100"/>
   </animation>
  </tile>
  <tile id="1798">
@@ -7275,6 +11301,9 @@
    <frame tileid="1814" duration="100"/>
    <frame tileid="1822" duration="100"/>
    <frame tileid="1830" duration="100"/>
+   <frame tileid="1838" duration="100"/>
+   <frame tileid="1846" duration="100"/>
+   <frame tileid="1854" duration="100"/>
   </animation>
  </tile>
  <tile id="1799">
@@ -7287,6 +11316,9 @@
    <frame tileid="1815" duration="100"/>
    <frame tileid="1823" duration="100"/>
    <frame tileid="1831" duration="100"/>
+   <frame tileid="1839" duration="100"/>
+   <frame tileid="1847" duration="100"/>
+   <frame tileid="1855" duration="100"/>
   </animation>
  </tile>
  <tile id="1800">
@@ -7449,6 +11481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1832">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1833">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1834">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1835">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1836">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1837">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1838">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1839">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1840">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1841">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1842">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1843">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1844">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1845">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1846">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1847">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1848">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1849">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1850">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1851">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1852">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1853">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1854">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1855">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1856">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -7459,6 +11611,9 @@
    <frame tileid="1872" duration="100"/>
    <frame tileid="1880" duration="100"/>
    <frame tileid="1888" duration="100"/>
+   <frame tileid="1896" duration="100"/>
+   <frame tileid="1904" duration="100"/>
+   <frame tileid="1912" duration="100"/>
   </animation>
  </tile>
  <tile id="1857">
@@ -7471,6 +11626,9 @@
    <frame tileid="1873" duration="100"/>
    <frame tileid="1881" duration="100"/>
    <frame tileid="1889" duration="100"/>
+   <frame tileid="1897" duration="100"/>
+   <frame tileid="1905" duration="100"/>
+   <frame tileid="1913" duration="100"/>
   </animation>
  </tile>
  <tile id="1858">
@@ -7483,6 +11641,9 @@
    <frame tileid="1874" duration="100"/>
    <frame tileid="1882" duration="100"/>
    <frame tileid="1890" duration="100"/>
+   <frame tileid="1898" duration="100"/>
+   <frame tileid="1906" duration="100"/>
+   <frame tileid="1914" duration="100"/>
   </animation>
  </tile>
  <tile id="1859">
@@ -7495,6 +11656,9 @@
    <frame tileid="1875" duration="100"/>
    <frame tileid="1883" duration="100"/>
    <frame tileid="1891" duration="100"/>
+   <frame tileid="1899" duration="100"/>
+   <frame tileid="1907" duration="100"/>
+   <frame tileid="1915" duration="100"/>
   </animation>
  </tile>
  <tile id="1860">
@@ -7507,6 +11671,9 @@
    <frame tileid="1876" duration="100"/>
    <frame tileid="1884" duration="100"/>
    <frame tileid="1892" duration="100"/>
+   <frame tileid="1900" duration="100"/>
+   <frame tileid="1908" duration="100"/>
+   <frame tileid="1916" duration="100"/>
   </animation>
  </tile>
  <tile id="1861">
@@ -7519,6 +11686,9 @@
    <frame tileid="1877" duration="100"/>
    <frame tileid="1885" duration="100"/>
    <frame tileid="1893" duration="100"/>
+   <frame tileid="1901" duration="100"/>
+   <frame tileid="1909" duration="100"/>
+   <frame tileid="1917" duration="100"/>
   </animation>
  </tile>
  <tile id="1862">
@@ -7531,6 +11701,9 @@
    <frame tileid="1878" duration="100"/>
    <frame tileid="1886" duration="100"/>
    <frame tileid="1894" duration="100"/>
+   <frame tileid="1902" duration="100"/>
+   <frame tileid="1910" duration="100"/>
+   <frame tileid="1918" duration="100"/>
   </animation>
  </tile>
  <tile id="1863">
@@ -7543,6 +11716,9 @@
    <frame tileid="1879" duration="100"/>
    <frame tileid="1887" duration="100"/>
    <frame tileid="1895" duration="100"/>
+   <frame tileid="1903" duration="100"/>
+   <frame tileid="1911" duration="100"/>
+   <frame tileid="1919" duration="100"/>
   </animation>
  </tile>
  <tile id="1864">
@@ -7705,6 +11881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1896">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1897">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1898">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1899">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1900">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1901">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1902">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1903">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1904">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1905">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1906">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1907">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1908">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1909">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1910">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1911">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1912">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1913">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1914">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1915">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1916">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1917">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1918">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1919">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1920">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -7715,6 +12011,9 @@
    <frame tileid="1936" duration="100"/>
    <frame tileid="1944" duration="100"/>
    <frame tileid="1952" duration="100"/>
+   <frame tileid="1960" duration="100"/>
+   <frame tileid="1968" duration="100"/>
+   <frame tileid="1976" duration="100"/>
   </animation>
  </tile>
  <tile id="1921">
@@ -7727,6 +12026,9 @@
    <frame tileid="1937" duration="100"/>
    <frame tileid="1945" duration="100"/>
    <frame tileid="1953" duration="100"/>
+   <frame tileid="1961" duration="100"/>
+   <frame tileid="1969" duration="100"/>
+   <frame tileid="1977" duration="100"/>
   </animation>
  </tile>
  <tile id="1922">
@@ -7739,6 +12041,9 @@
    <frame tileid="1938" duration="100"/>
    <frame tileid="1946" duration="100"/>
    <frame tileid="1954" duration="100"/>
+   <frame tileid="1962" duration="100"/>
+   <frame tileid="1970" duration="100"/>
+   <frame tileid="1978" duration="100"/>
   </animation>
  </tile>
  <tile id="1923">
@@ -7751,6 +12056,9 @@
    <frame tileid="1939" duration="100"/>
    <frame tileid="1947" duration="100"/>
    <frame tileid="1955" duration="100"/>
+   <frame tileid="1963" duration="100"/>
+   <frame tileid="1971" duration="100"/>
+   <frame tileid="1979" duration="100"/>
   </animation>
  </tile>
  <tile id="1924">
@@ -7763,6 +12071,9 @@
    <frame tileid="1940" duration="100"/>
    <frame tileid="1948" duration="100"/>
    <frame tileid="1956" duration="100"/>
+   <frame tileid="1964" duration="100"/>
+   <frame tileid="1972" duration="100"/>
+   <frame tileid="1980" duration="100"/>
   </animation>
  </tile>
  <tile id="1925">
@@ -7775,6 +12086,9 @@
    <frame tileid="1941" duration="100"/>
    <frame tileid="1949" duration="100"/>
    <frame tileid="1957" duration="100"/>
+   <frame tileid="1965" duration="100"/>
+   <frame tileid="1973" duration="100"/>
+   <frame tileid="1981" duration="100"/>
   </animation>
  </tile>
  <tile id="1926">
@@ -7787,6 +12101,9 @@
    <frame tileid="1942" duration="100"/>
    <frame tileid="1950" duration="100"/>
    <frame tileid="1958" duration="100"/>
+   <frame tileid="1966" duration="100"/>
+   <frame tileid="1974" duration="100"/>
+   <frame tileid="1982" duration="100"/>
   </animation>
  </tile>
  <tile id="1927">
@@ -7799,6 +12116,9 @@
    <frame tileid="1943" duration="100"/>
    <frame tileid="1951" duration="100"/>
    <frame tileid="1959" duration="100"/>
+   <frame tileid="1967" duration="100"/>
+   <frame tileid="1975" duration="100"/>
+   <frame tileid="1983" duration="100"/>
   </animation>
  </tile>
  <tile id="1928">
@@ -7961,6 +12281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="1960">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1961">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1962">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1963">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1964">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1965">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1966">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1967">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1968">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1969">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1970">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1971">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1972">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1973">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1974">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1975">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1976">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1977">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1978">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1979">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1980">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1981">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1982">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="1983">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="1984">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -7971,6 +12411,9 @@
    <frame tileid="2000" duration="100"/>
    <frame tileid="2008" duration="100"/>
    <frame tileid="2016" duration="100"/>
+   <frame tileid="2024" duration="100"/>
+   <frame tileid="2032" duration="100"/>
+   <frame tileid="2040" duration="100"/>
   </animation>
  </tile>
  <tile id="1985">
@@ -7983,6 +12426,9 @@
    <frame tileid="2001" duration="100"/>
    <frame tileid="2009" duration="100"/>
    <frame tileid="2017" duration="100"/>
+   <frame tileid="2025" duration="100"/>
+   <frame tileid="2033" duration="100"/>
+   <frame tileid="2041" duration="100"/>
   </animation>
  </tile>
  <tile id="1986">
@@ -7995,6 +12441,9 @@
    <frame tileid="2002" duration="100"/>
    <frame tileid="2010" duration="100"/>
    <frame tileid="2018" duration="100"/>
+   <frame tileid="2026" duration="100"/>
+   <frame tileid="2034" duration="100"/>
+   <frame tileid="2042" duration="100"/>
   </animation>
  </tile>
  <tile id="1987">
@@ -8007,6 +12456,9 @@
    <frame tileid="2003" duration="100"/>
    <frame tileid="2011" duration="100"/>
    <frame tileid="2019" duration="100"/>
+   <frame tileid="2027" duration="100"/>
+   <frame tileid="2035" duration="100"/>
+   <frame tileid="2043" duration="100"/>
   </animation>
  </tile>
  <tile id="1988">
@@ -8019,6 +12471,9 @@
    <frame tileid="2004" duration="100"/>
    <frame tileid="2012" duration="100"/>
    <frame tileid="2020" duration="100"/>
+   <frame tileid="2028" duration="100"/>
+   <frame tileid="2036" duration="100"/>
+   <frame tileid="2044" duration="100"/>
   </animation>
  </tile>
  <tile id="1989">
@@ -8031,6 +12486,9 @@
    <frame tileid="2005" duration="100"/>
    <frame tileid="2013" duration="100"/>
    <frame tileid="2021" duration="100"/>
+   <frame tileid="2029" duration="100"/>
+   <frame tileid="2037" duration="100"/>
+   <frame tileid="2045" duration="100"/>
   </animation>
  </tile>
  <tile id="1990">
@@ -8043,6 +12501,9 @@
    <frame tileid="2006" duration="100"/>
    <frame tileid="2014" duration="100"/>
    <frame tileid="2022" duration="100"/>
+   <frame tileid="2030" duration="100"/>
+   <frame tileid="2038" duration="100"/>
+   <frame tileid="2046" duration="100"/>
   </animation>
  </tile>
  <tile id="1991">
@@ -8055,6 +12516,9 @@
    <frame tileid="2007" duration="100"/>
    <frame tileid="2015" duration="100"/>
    <frame tileid="2023" duration="100"/>
+   <frame tileid="2031" duration="100"/>
+   <frame tileid="2039" duration="100"/>
+   <frame tileid="2047" duration="100"/>
   </animation>
  </tile>
  <tile id="1992">
@@ -8217,6 +12681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2024">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2025">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2026">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2027">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2028">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2029">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2030">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2031">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2032">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2033">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2034">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2035">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2036">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2037">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2038">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2039">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2040">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2041">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2042">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2043">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2044">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2045">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2046">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2047">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2048">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -8227,6 +12811,9 @@
    <frame tileid="2064" duration="100"/>
    <frame tileid="2072" duration="100"/>
    <frame tileid="2080" duration="100"/>
+   <frame tileid="2088" duration="100"/>
+   <frame tileid="2096" duration="100"/>
+   <frame tileid="2104" duration="100"/>
   </animation>
  </tile>
  <tile id="2049">
@@ -8239,6 +12826,9 @@
    <frame tileid="2065" duration="100"/>
    <frame tileid="2073" duration="100"/>
    <frame tileid="2081" duration="100"/>
+   <frame tileid="2089" duration="100"/>
+   <frame tileid="2097" duration="100"/>
+   <frame tileid="2105" duration="100"/>
   </animation>
  </tile>
  <tile id="2050">
@@ -8251,6 +12841,9 @@
    <frame tileid="2066" duration="100"/>
    <frame tileid="2074" duration="100"/>
    <frame tileid="2082" duration="100"/>
+   <frame tileid="2090" duration="100"/>
+   <frame tileid="2098" duration="100"/>
+   <frame tileid="2106" duration="100"/>
   </animation>
  </tile>
  <tile id="2051">
@@ -8263,6 +12856,9 @@
    <frame tileid="2067" duration="100"/>
    <frame tileid="2075" duration="100"/>
    <frame tileid="2083" duration="100"/>
+   <frame tileid="2091" duration="100"/>
+   <frame tileid="2099" duration="100"/>
+   <frame tileid="2107" duration="100"/>
   </animation>
  </tile>
  <tile id="2052">
@@ -8275,6 +12871,9 @@
    <frame tileid="2068" duration="100"/>
    <frame tileid="2076" duration="100"/>
    <frame tileid="2084" duration="100"/>
+   <frame tileid="2092" duration="100"/>
+   <frame tileid="2100" duration="100"/>
+   <frame tileid="2108" duration="100"/>
   </animation>
  </tile>
  <tile id="2053">
@@ -8287,6 +12886,9 @@
    <frame tileid="2069" duration="100"/>
    <frame tileid="2077" duration="100"/>
    <frame tileid="2085" duration="100"/>
+   <frame tileid="2093" duration="100"/>
+   <frame tileid="2101" duration="100"/>
+   <frame tileid="2109" duration="100"/>
   </animation>
  </tile>
  <tile id="2054">
@@ -8299,6 +12901,9 @@
    <frame tileid="2070" duration="100"/>
    <frame tileid="2078" duration="100"/>
    <frame tileid="2086" duration="100"/>
+   <frame tileid="2094" duration="100"/>
+   <frame tileid="2102" duration="100"/>
+   <frame tileid="2110" duration="100"/>
   </animation>
  </tile>
  <tile id="2055">
@@ -8311,6 +12916,9 @@
    <frame tileid="2071" duration="100"/>
    <frame tileid="2079" duration="100"/>
    <frame tileid="2087" duration="100"/>
+   <frame tileid="2095" duration="100"/>
+   <frame tileid="2103" duration="100"/>
+   <frame tileid="2111" duration="100"/>
   </animation>
  </tile>
  <tile id="2056">
@@ -8473,6 +13081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2088">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2089">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2090">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2091">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2092">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2093">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2094">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2095">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2096">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2097">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2098">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2099">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2100">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2101">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2102">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2103">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2104">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2105">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2106">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2107">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2108">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2109">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2110">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2111">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2112">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -8483,6 +13211,9 @@
    <frame tileid="2128" duration="100"/>
    <frame tileid="2136" duration="100"/>
    <frame tileid="2144" duration="100"/>
+   <frame tileid="2152" duration="100"/>
+   <frame tileid="2160" duration="100"/>
+   <frame tileid="2168" duration="100"/>
   </animation>
  </tile>
  <tile id="2113">
@@ -8495,6 +13226,9 @@
    <frame tileid="2129" duration="100"/>
    <frame tileid="2137" duration="100"/>
    <frame tileid="2145" duration="100"/>
+   <frame tileid="2153" duration="100"/>
+   <frame tileid="2161" duration="100"/>
+   <frame tileid="2169" duration="100"/>
   </animation>
  </tile>
  <tile id="2114">
@@ -8507,6 +13241,9 @@
    <frame tileid="2130" duration="100"/>
    <frame tileid="2138" duration="100"/>
    <frame tileid="2146" duration="100"/>
+   <frame tileid="2154" duration="100"/>
+   <frame tileid="2162" duration="100"/>
+   <frame tileid="2170" duration="100"/>
   </animation>
  </tile>
  <tile id="2115">
@@ -8519,6 +13256,9 @@
    <frame tileid="2131" duration="100"/>
    <frame tileid="2139" duration="100"/>
    <frame tileid="2147" duration="100"/>
+   <frame tileid="2155" duration="100"/>
+   <frame tileid="2163" duration="100"/>
+   <frame tileid="2171" duration="100"/>
   </animation>
  </tile>
  <tile id="2116">
@@ -8531,6 +13271,9 @@
    <frame tileid="2132" duration="100"/>
    <frame tileid="2140" duration="100"/>
    <frame tileid="2148" duration="100"/>
+   <frame tileid="2156" duration="100"/>
+   <frame tileid="2164" duration="100"/>
+   <frame tileid="2172" duration="100"/>
   </animation>
  </tile>
  <tile id="2117">
@@ -8543,6 +13286,9 @@
    <frame tileid="2133" duration="100"/>
    <frame tileid="2141" duration="100"/>
    <frame tileid="2149" duration="100"/>
+   <frame tileid="2157" duration="100"/>
+   <frame tileid="2165" duration="100"/>
+   <frame tileid="2173" duration="100"/>
   </animation>
  </tile>
  <tile id="2118">
@@ -8555,6 +13301,9 @@
    <frame tileid="2134" duration="100"/>
    <frame tileid="2142" duration="100"/>
    <frame tileid="2150" duration="100"/>
+   <frame tileid="2158" duration="100"/>
+   <frame tileid="2166" duration="100"/>
+   <frame tileid="2174" duration="100"/>
   </animation>
  </tile>
  <tile id="2119">
@@ -8567,6 +13316,9 @@
    <frame tileid="2135" duration="100"/>
    <frame tileid="2143" duration="100"/>
    <frame tileid="2151" duration="100"/>
+   <frame tileid="2159" duration="100"/>
+   <frame tileid="2167" duration="100"/>
+   <frame tileid="2175" duration="100"/>
   </animation>
  </tile>
  <tile id="2120">
@@ -8729,6 +13481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2152">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2153">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2154">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2155">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2156">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2157">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2158">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2159">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2160">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2161">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2162">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2163">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2164">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2165">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2166">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2167">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2168">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2169">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2170">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2171">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2172">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2173">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2174">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2175">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2176">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -8739,6 +13611,9 @@
    <frame tileid="2192" duration="100"/>
    <frame tileid="2200" duration="100"/>
    <frame tileid="2208" duration="100"/>
+   <frame tileid="2216" duration="100"/>
+   <frame tileid="2224" duration="100"/>
+   <frame tileid="2232" duration="100"/>
   </animation>
  </tile>
  <tile id="2177">
@@ -8751,6 +13626,9 @@
    <frame tileid="2193" duration="100"/>
    <frame tileid="2201" duration="100"/>
    <frame tileid="2209" duration="100"/>
+   <frame tileid="2217" duration="100"/>
+   <frame tileid="2225" duration="100"/>
+   <frame tileid="2233" duration="100"/>
   </animation>
  </tile>
  <tile id="2178">
@@ -8763,6 +13641,9 @@
    <frame tileid="2194" duration="100"/>
    <frame tileid="2202" duration="100"/>
    <frame tileid="2210" duration="100"/>
+   <frame tileid="2218" duration="100"/>
+   <frame tileid="2226" duration="100"/>
+   <frame tileid="2234" duration="100"/>
   </animation>
  </tile>
  <tile id="2179">
@@ -8775,6 +13656,9 @@
    <frame tileid="2195" duration="100"/>
    <frame tileid="2203" duration="100"/>
    <frame tileid="2211" duration="100"/>
+   <frame tileid="2219" duration="100"/>
+   <frame tileid="2227" duration="100"/>
+   <frame tileid="2235" duration="100"/>
   </animation>
  </tile>
  <tile id="2180">
@@ -8787,6 +13671,9 @@
    <frame tileid="2196" duration="100"/>
    <frame tileid="2204" duration="100"/>
    <frame tileid="2212" duration="100"/>
+   <frame tileid="2220" duration="100"/>
+   <frame tileid="2228" duration="100"/>
+   <frame tileid="2236" duration="100"/>
   </animation>
  </tile>
  <tile id="2181">
@@ -8799,6 +13686,9 @@
    <frame tileid="2197" duration="100"/>
    <frame tileid="2205" duration="100"/>
    <frame tileid="2213" duration="100"/>
+   <frame tileid="2221" duration="100"/>
+   <frame tileid="2229" duration="100"/>
+   <frame tileid="2237" duration="100"/>
   </animation>
  </tile>
  <tile id="2182">
@@ -8811,6 +13701,9 @@
    <frame tileid="2198" duration="100"/>
    <frame tileid="2206" duration="100"/>
    <frame tileid="2214" duration="100"/>
+   <frame tileid="2222" duration="100"/>
+   <frame tileid="2230" duration="100"/>
+   <frame tileid="2238" duration="100"/>
   </animation>
  </tile>
  <tile id="2183">
@@ -8823,6 +13716,9 @@
    <frame tileid="2199" duration="100"/>
    <frame tileid="2207" duration="100"/>
    <frame tileid="2215" duration="100"/>
+   <frame tileid="2223" duration="100"/>
+   <frame tileid="2231" duration="100"/>
+   <frame tileid="2239" duration="100"/>
   </animation>
  </tile>
  <tile id="2184">
@@ -8985,6 +13881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2216">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2217">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2218">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2219">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2220">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2221">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2222">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2223">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2224">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2225">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2226">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2227">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2228">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2229">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2230">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2231">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2232">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2233">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2234">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2235">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2236">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2237">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2238">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2239">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2240">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -8995,6 +14011,9 @@
    <frame tileid="2256" duration="100"/>
    <frame tileid="2264" duration="100"/>
    <frame tileid="2272" duration="100"/>
+   <frame tileid="2280" duration="100"/>
+   <frame tileid="2288" duration="100"/>
+   <frame tileid="2296" duration="100"/>
   </animation>
  </tile>
  <tile id="2241">
@@ -9007,6 +14026,9 @@
    <frame tileid="2257" duration="100"/>
    <frame tileid="2265" duration="100"/>
    <frame tileid="2273" duration="100"/>
+   <frame tileid="2281" duration="100"/>
+   <frame tileid="2289" duration="100"/>
+   <frame tileid="2297" duration="100"/>
   </animation>
  </tile>
  <tile id="2242">
@@ -9019,6 +14041,9 @@
    <frame tileid="2258" duration="100"/>
    <frame tileid="2266" duration="100"/>
    <frame tileid="2274" duration="100"/>
+   <frame tileid="2282" duration="100"/>
+   <frame tileid="2290" duration="100"/>
+   <frame tileid="2298" duration="100"/>
   </animation>
  </tile>
  <tile id="2243">
@@ -9031,6 +14056,9 @@
    <frame tileid="2259" duration="100"/>
    <frame tileid="2267" duration="100"/>
    <frame tileid="2275" duration="100"/>
+   <frame tileid="2283" duration="100"/>
+   <frame tileid="2291" duration="100"/>
+   <frame tileid="2299" duration="100"/>
   </animation>
  </tile>
  <tile id="2244">
@@ -9043,6 +14071,9 @@
    <frame tileid="2260" duration="100"/>
    <frame tileid="2268" duration="100"/>
    <frame tileid="2276" duration="100"/>
+   <frame tileid="2284" duration="100"/>
+   <frame tileid="2292" duration="100"/>
+   <frame tileid="2300" duration="100"/>
   </animation>
  </tile>
  <tile id="2245">
@@ -9055,6 +14086,9 @@
    <frame tileid="2261" duration="100"/>
    <frame tileid="2269" duration="100"/>
    <frame tileid="2277" duration="100"/>
+   <frame tileid="2285" duration="100"/>
+   <frame tileid="2293" duration="100"/>
+   <frame tileid="2301" duration="100"/>
   </animation>
  </tile>
  <tile id="2246">
@@ -9067,6 +14101,9 @@
    <frame tileid="2262" duration="100"/>
    <frame tileid="2270" duration="100"/>
    <frame tileid="2278" duration="100"/>
+   <frame tileid="2286" duration="100"/>
+   <frame tileid="2294" duration="100"/>
+   <frame tileid="2302" duration="100"/>
   </animation>
  </tile>
  <tile id="2247">
@@ -9079,6 +14116,9 @@
    <frame tileid="2263" duration="100"/>
    <frame tileid="2271" duration="100"/>
    <frame tileid="2279" duration="100"/>
+   <frame tileid="2287" duration="100"/>
+   <frame tileid="2295" duration="100"/>
+   <frame tileid="2303" duration="100"/>
   </animation>
  </tile>
  <tile id="2248">
@@ -9241,6 +14281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2280">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2281">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2282">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2283">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2284">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2285">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2286">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2287">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2288">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2289">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2290">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2291">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2292">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2293">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2294">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2295">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2296">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2297">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2298">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2299">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2300">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2301">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2302">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2303">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2304">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -9251,6 +14411,9 @@
    <frame tileid="2320" duration="100"/>
    <frame tileid="2328" duration="100"/>
    <frame tileid="2336" duration="100"/>
+   <frame tileid="2344" duration="100"/>
+   <frame tileid="2352" duration="100"/>
+   <frame tileid="2360" duration="100"/>
   </animation>
  </tile>
  <tile id="2305">
@@ -9263,6 +14426,9 @@
    <frame tileid="2321" duration="100"/>
    <frame tileid="2329" duration="100"/>
    <frame tileid="2337" duration="100"/>
+   <frame tileid="2345" duration="100"/>
+   <frame tileid="2353" duration="100"/>
+   <frame tileid="2361" duration="100"/>
   </animation>
  </tile>
  <tile id="2306">
@@ -9275,6 +14441,9 @@
    <frame tileid="2322" duration="100"/>
    <frame tileid="2330" duration="100"/>
    <frame tileid="2338" duration="100"/>
+   <frame tileid="2346" duration="100"/>
+   <frame tileid="2354" duration="100"/>
+   <frame tileid="2362" duration="100"/>
   </animation>
  </tile>
  <tile id="2307">
@@ -9287,6 +14456,9 @@
    <frame tileid="2323" duration="100"/>
    <frame tileid="2331" duration="100"/>
    <frame tileid="2339" duration="100"/>
+   <frame tileid="2347" duration="100"/>
+   <frame tileid="2355" duration="100"/>
+   <frame tileid="2363" duration="100"/>
   </animation>
  </tile>
  <tile id="2308">
@@ -9299,6 +14471,9 @@
    <frame tileid="2324" duration="100"/>
    <frame tileid="2332" duration="100"/>
    <frame tileid="2340" duration="100"/>
+   <frame tileid="2348" duration="100"/>
+   <frame tileid="2356" duration="100"/>
+   <frame tileid="2364" duration="100"/>
   </animation>
  </tile>
  <tile id="2309">
@@ -9311,6 +14486,9 @@
    <frame tileid="2325" duration="100"/>
    <frame tileid="2333" duration="100"/>
    <frame tileid="2341" duration="100"/>
+   <frame tileid="2349" duration="100"/>
+   <frame tileid="2357" duration="100"/>
+   <frame tileid="2365" duration="100"/>
   </animation>
  </tile>
  <tile id="2310">
@@ -9323,6 +14501,9 @@
    <frame tileid="2326" duration="100"/>
    <frame tileid="2334" duration="100"/>
    <frame tileid="2342" duration="100"/>
+   <frame tileid="2350" duration="100"/>
+   <frame tileid="2358" duration="100"/>
+   <frame tileid="2366" duration="100"/>
   </animation>
  </tile>
  <tile id="2311">
@@ -9335,6 +14516,9 @@
    <frame tileid="2327" duration="100"/>
    <frame tileid="2335" duration="100"/>
    <frame tileid="2343" duration="100"/>
+   <frame tileid="2351" duration="100"/>
+   <frame tileid="2359" duration="100"/>
+   <frame tileid="2367" duration="100"/>
   </animation>
  </tile>
  <tile id="2312">
@@ -9497,6 +14681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2344">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2345">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2346">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2347">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2348">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2349">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2350">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2351">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2352">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2353">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2354">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2355">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2356">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2357">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2358">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2359">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2360">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2361">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2362">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2363">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2364">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2365">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2366">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2367">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2368">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -9507,6 +14811,9 @@
    <frame tileid="2384" duration="100"/>
    <frame tileid="2392" duration="100"/>
    <frame tileid="2400" duration="100"/>
+   <frame tileid="2408" duration="100"/>
+   <frame tileid="2416" duration="100"/>
+   <frame tileid="2424" duration="100"/>
   </animation>
  </tile>
  <tile id="2369">
@@ -9519,6 +14826,9 @@
    <frame tileid="2385" duration="100"/>
    <frame tileid="2393" duration="100"/>
    <frame tileid="2401" duration="100"/>
+   <frame tileid="2409" duration="100"/>
+   <frame tileid="2417" duration="100"/>
+   <frame tileid="2425" duration="100"/>
   </animation>
  </tile>
  <tile id="2370">
@@ -9531,6 +14841,9 @@
    <frame tileid="2386" duration="100"/>
    <frame tileid="2394" duration="100"/>
    <frame tileid="2402" duration="100"/>
+   <frame tileid="2410" duration="100"/>
+   <frame tileid="2418" duration="100"/>
+   <frame tileid="2426" duration="100"/>
   </animation>
  </tile>
  <tile id="2371">
@@ -9543,6 +14856,9 @@
    <frame tileid="2387" duration="100"/>
    <frame tileid="2395" duration="100"/>
    <frame tileid="2403" duration="100"/>
+   <frame tileid="2411" duration="100"/>
+   <frame tileid="2419" duration="100"/>
+   <frame tileid="2427" duration="100"/>
   </animation>
  </tile>
  <tile id="2372">
@@ -9555,6 +14871,9 @@
    <frame tileid="2388" duration="100"/>
    <frame tileid="2396" duration="100"/>
    <frame tileid="2404" duration="100"/>
+   <frame tileid="2412" duration="100"/>
+   <frame tileid="2420" duration="100"/>
+   <frame tileid="2428" duration="100"/>
   </animation>
  </tile>
  <tile id="2373">
@@ -9567,6 +14886,9 @@
    <frame tileid="2389" duration="100"/>
    <frame tileid="2397" duration="100"/>
    <frame tileid="2405" duration="100"/>
+   <frame tileid="2413" duration="100"/>
+   <frame tileid="2421" duration="100"/>
+   <frame tileid="2429" duration="100"/>
   </animation>
  </tile>
  <tile id="2374">
@@ -9579,6 +14901,9 @@
    <frame tileid="2390" duration="100"/>
    <frame tileid="2398" duration="100"/>
    <frame tileid="2406" duration="100"/>
+   <frame tileid="2414" duration="100"/>
+   <frame tileid="2422" duration="100"/>
+   <frame tileid="2430" duration="100"/>
   </animation>
  </tile>
  <tile id="2375">
@@ -9591,6 +14916,9 @@
    <frame tileid="2391" duration="100"/>
    <frame tileid="2399" duration="100"/>
    <frame tileid="2407" duration="100"/>
+   <frame tileid="2415" duration="100"/>
+   <frame tileid="2423" duration="100"/>
+   <frame tileid="2431" duration="100"/>
   </animation>
  </tile>
  <tile id="2376">
@@ -9753,6 +15081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2408">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2409">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2410">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2411">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2412">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2413">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2414">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2415">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2416">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2417">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2418">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2419">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2420">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2421">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2422">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2423">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2424">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2425">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2426">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2427">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2428">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2429">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2430">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2431">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2432">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -9763,6 +15211,9 @@
    <frame tileid="2448" duration="100"/>
    <frame tileid="2456" duration="100"/>
    <frame tileid="2464" duration="100"/>
+   <frame tileid="2472" duration="100"/>
+   <frame tileid="2480" duration="100"/>
+   <frame tileid="2488" duration="100"/>
   </animation>
  </tile>
  <tile id="2433">
@@ -9775,6 +15226,9 @@
    <frame tileid="2449" duration="100"/>
    <frame tileid="2457" duration="100"/>
    <frame tileid="2465" duration="100"/>
+   <frame tileid="2473" duration="100"/>
+   <frame tileid="2481" duration="100"/>
+   <frame tileid="2489" duration="100"/>
   </animation>
  </tile>
  <tile id="2434">
@@ -9787,6 +15241,9 @@
    <frame tileid="2450" duration="100"/>
    <frame tileid="2458" duration="100"/>
    <frame tileid="2466" duration="100"/>
+   <frame tileid="2474" duration="100"/>
+   <frame tileid="2482" duration="100"/>
+   <frame tileid="2490" duration="100"/>
   </animation>
  </tile>
  <tile id="2435">
@@ -9799,6 +15256,9 @@
    <frame tileid="2451" duration="100"/>
    <frame tileid="2459" duration="100"/>
    <frame tileid="2467" duration="100"/>
+   <frame tileid="2475" duration="100"/>
+   <frame tileid="2483" duration="100"/>
+   <frame tileid="2491" duration="100"/>
   </animation>
  </tile>
  <tile id="2436">
@@ -9811,6 +15271,9 @@
    <frame tileid="2452" duration="100"/>
    <frame tileid="2460" duration="100"/>
    <frame tileid="2468" duration="100"/>
+   <frame tileid="2476" duration="100"/>
+   <frame tileid="2484" duration="100"/>
+   <frame tileid="2492" duration="100"/>
   </animation>
  </tile>
  <tile id="2437">
@@ -9823,6 +15286,9 @@
    <frame tileid="2453" duration="100"/>
    <frame tileid="2461" duration="100"/>
    <frame tileid="2469" duration="100"/>
+   <frame tileid="2477" duration="100"/>
+   <frame tileid="2485" duration="100"/>
+   <frame tileid="2493" duration="100"/>
   </animation>
  </tile>
  <tile id="2438">
@@ -9835,6 +15301,9 @@
    <frame tileid="2454" duration="100"/>
    <frame tileid="2462" duration="100"/>
    <frame tileid="2470" duration="100"/>
+   <frame tileid="2478" duration="100"/>
+   <frame tileid="2486" duration="100"/>
+   <frame tileid="2494" duration="100"/>
   </animation>
  </tile>
  <tile id="2439">
@@ -9847,6 +15316,9 @@
    <frame tileid="2455" duration="100"/>
    <frame tileid="2463" duration="100"/>
    <frame tileid="2471" duration="100"/>
+   <frame tileid="2479" duration="100"/>
+   <frame tileid="2487" duration="100"/>
+   <frame tileid="2495" duration="100"/>
   </animation>
  </tile>
  <tile id="2440">
@@ -10009,6 +15481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2472">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2473">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2474">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2475">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2476">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2477">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2478">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2479">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2480">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2481">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2482">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2483">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2484">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2485">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2486">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2487">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2488">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2489">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2490">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2491">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2492">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2493">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2494">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2495">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2496">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -10019,6 +15611,9 @@
    <frame tileid="2512" duration="100"/>
    <frame tileid="2520" duration="100"/>
    <frame tileid="2528" duration="100"/>
+   <frame tileid="2536" duration="100"/>
+   <frame tileid="2544" duration="100"/>
+   <frame tileid="2552" duration="100"/>
   </animation>
  </tile>
  <tile id="2497">
@@ -10031,6 +15626,9 @@
    <frame tileid="2513" duration="100"/>
    <frame tileid="2521" duration="100"/>
    <frame tileid="2529" duration="100"/>
+   <frame tileid="2537" duration="100"/>
+   <frame tileid="2545" duration="100"/>
+   <frame tileid="2553" duration="100"/>
   </animation>
  </tile>
  <tile id="2498">
@@ -10043,6 +15641,9 @@
    <frame tileid="2514" duration="100"/>
    <frame tileid="2522" duration="100"/>
    <frame tileid="2530" duration="100"/>
+   <frame tileid="2538" duration="100"/>
+   <frame tileid="2546" duration="100"/>
+   <frame tileid="2554" duration="100"/>
   </animation>
  </tile>
  <tile id="2499">
@@ -10055,6 +15656,9 @@
    <frame tileid="2515" duration="100"/>
    <frame tileid="2523" duration="100"/>
    <frame tileid="2531" duration="100"/>
+   <frame tileid="2539" duration="100"/>
+   <frame tileid="2547" duration="100"/>
+   <frame tileid="2555" duration="100"/>
   </animation>
  </tile>
  <tile id="2500">
@@ -10067,6 +15671,9 @@
    <frame tileid="2516" duration="100"/>
    <frame tileid="2524" duration="100"/>
    <frame tileid="2532" duration="100"/>
+   <frame tileid="2540" duration="100"/>
+   <frame tileid="2548" duration="100"/>
+   <frame tileid="2556" duration="100"/>
   </animation>
  </tile>
  <tile id="2501">
@@ -10079,6 +15686,9 @@
    <frame tileid="2517" duration="100"/>
    <frame tileid="2525" duration="100"/>
    <frame tileid="2533" duration="100"/>
+   <frame tileid="2541" duration="100"/>
+   <frame tileid="2549" duration="100"/>
+   <frame tileid="2557" duration="100"/>
   </animation>
  </tile>
  <tile id="2502">
@@ -10091,6 +15701,9 @@
    <frame tileid="2518" duration="100"/>
    <frame tileid="2526" duration="100"/>
    <frame tileid="2534" duration="100"/>
+   <frame tileid="2542" duration="100"/>
+   <frame tileid="2550" duration="100"/>
+   <frame tileid="2558" duration="100"/>
   </animation>
  </tile>
  <tile id="2503">
@@ -10103,6 +15716,9 @@
    <frame tileid="2519" duration="100"/>
    <frame tileid="2527" duration="100"/>
    <frame tileid="2535" duration="100"/>
+   <frame tileid="2543" duration="100"/>
+   <frame tileid="2551" duration="100"/>
+   <frame tileid="2559" duration="100"/>
   </animation>
  </tile>
  <tile id="2504">
@@ -10265,6 +15881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2536">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2537">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2538">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2539">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2540">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2541">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2542">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2543">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2544">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2545">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2546">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2547">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2548">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2549">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2550">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2551">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2552">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2553">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2554">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2555">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2556">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2557">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2558">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2559">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2560">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -10275,6 +16011,9 @@
    <frame tileid="2576" duration="100"/>
    <frame tileid="2584" duration="100"/>
    <frame tileid="2592" duration="100"/>
+   <frame tileid="2600" duration="100"/>
+   <frame tileid="2608" duration="100"/>
+   <frame tileid="2616" duration="100"/>
   </animation>
  </tile>
  <tile id="2561">
@@ -10287,6 +16026,9 @@
    <frame tileid="2577" duration="100"/>
    <frame tileid="2585" duration="100"/>
    <frame tileid="2593" duration="100"/>
+   <frame tileid="2601" duration="100"/>
+   <frame tileid="2609" duration="100"/>
+   <frame tileid="2617" duration="100"/>
   </animation>
  </tile>
  <tile id="2562">
@@ -10299,6 +16041,9 @@
    <frame tileid="2578" duration="100"/>
    <frame tileid="2586" duration="100"/>
    <frame tileid="2594" duration="100"/>
+   <frame tileid="2602" duration="100"/>
+   <frame tileid="2610" duration="100"/>
+   <frame tileid="2618" duration="100"/>
   </animation>
  </tile>
  <tile id="2563">
@@ -10311,6 +16056,9 @@
    <frame tileid="2579" duration="100"/>
    <frame tileid="2587" duration="100"/>
    <frame tileid="2595" duration="100"/>
+   <frame tileid="2603" duration="100"/>
+   <frame tileid="2611" duration="100"/>
+   <frame tileid="2619" duration="100"/>
   </animation>
  </tile>
  <tile id="2564">
@@ -10323,6 +16071,9 @@
    <frame tileid="2580" duration="100"/>
    <frame tileid="2588" duration="100"/>
    <frame tileid="2596" duration="100"/>
+   <frame tileid="2604" duration="100"/>
+   <frame tileid="2612" duration="100"/>
+   <frame tileid="2620" duration="100"/>
   </animation>
  </tile>
  <tile id="2565">
@@ -10335,6 +16086,9 @@
    <frame tileid="2581" duration="100"/>
    <frame tileid="2589" duration="100"/>
    <frame tileid="2597" duration="100"/>
+   <frame tileid="2605" duration="100"/>
+   <frame tileid="2613" duration="100"/>
+   <frame tileid="2621" duration="100"/>
   </animation>
  </tile>
  <tile id="2566">
@@ -10347,6 +16101,9 @@
    <frame tileid="2582" duration="100"/>
    <frame tileid="2590" duration="100"/>
    <frame tileid="2598" duration="100"/>
+   <frame tileid="2606" duration="100"/>
+   <frame tileid="2614" duration="100"/>
+   <frame tileid="2622" duration="100"/>
   </animation>
  </tile>
  <tile id="2567">
@@ -10359,6 +16116,9 @@
    <frame tileid="2583" duration="100"/>
    <frame tileid="2591" duration="100"/>
    <frame tileid="2599" duration="100"/>
+   <frame tileid="2607" duration="100"/>
+   <frame tileid="2615" duration="100"/>
+   <frame tileid="2623" duration="100"/>
   </animation>
  </tile>
  <tile id="2568">
@@ -10521,6 +16281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2600">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2601">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2602">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2603">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2604">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2605">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2606">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2607">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2608">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2609">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2610">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2611">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2612">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2613">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2614">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2615">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2616">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2617">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2618">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2619">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2620">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2621">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2622">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2623">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2624">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -10531,6 +16411,9 @@
    <frame tileid="2640" duration="100"/>
    <frame tileid="2648" duration="100"/>
    <frame tileid="2656" duration="100"/>
+   <frame tileid="2664" duration="100"/>
+   <frame tileid="2672" duration="100"/>
+   <frame tileid="2680" duration="100"/>
   </animation>
  </tile>
  <tile id="2625">
@@ -10543,6 +16426,9 @@
    <frame tileid="2641" duration="100"/>
    <frame tileid="2649" duration="100"/>
    <frame tileid="2657" duration="100"/>
+   <frame tileid="2665" duration="100"/>
+   <frame tileid="2673" duration="100"/>
+   <frame tileid="2681" duration="100"/>
   </animation>
  </tile>
  <tile id="2626">
@@ -10555,6 +16441,9 @@
    <frame tileid="2642" duration="100"/>
    <frame tileid="2650" duration="100"/>
    <frame tileid="2658" duration="100"/>
+   <frame tileid="2666" duration="100"/>
+   <frame tileid="2674" duration="100"/>
+   <frame tileid="2682" duration="100"/>
   </animation>
  </tile>
  <tile id="2627">
@@ -10567,6 +16456,9 @@
    <frame tileid="2643" duration="100"/>
    <frame tileid="2651" duration="100"/>
    <frame tileid="2659" duration="100"/>
+   <frame tileid="2667" duration="100"/>
+   <frame tileid="2675" duration="100"/>
+   <frame tileid="2683" duration="100"/>
   </animation>
  </tile>
  <tile id="2628">
@@ -10579,6 +16471,9 @@
    <frame tileid="2644" duration="100"/>
    <frame tileid="2652" duration="100"/>
    <frame tileid="2660" duration="100"/>
+   <frame tileid="2668" duration="100"/>
+   <frame tileid="2676" duration="100"/>
+   <frame tileid="2684" duration="100"/>
   </animation>
  </tile>
  <tile id="2629">
@@ -10591,6 +16486,9 @@
    <frame tileid="2645" duration="100"/>
    <frame tileid="2653" duration="100"/>
    <frame tileid="2661" duration="100"/>
+   <frame tileid="2669" duration="100"/>
+   <frame tileid="2677" duration="100"/>
+   <frame tileid="2685" duration="100"/>
   </animation>
  </tile>
  <tile id="2630">
@@ -10603,6 +16501,9 @@
    <frame tileid="2646" duration="100"/>
    <frame tileid="2654" duration="100"/>
    <frame tileid="2662" duration="100"/>
+   <frame tileid="2670" duration="100"/>
+   <frame tileid="2678" duration="100"/>
+   <frame tileid="2686" duration="100"/>
   </animation>
  </tile>
  <tile id="2631">
@@ -10615,6 +16516,9 @@
    <frame tileid="2647" duration="100"/>
    <frame tileid="2655" duration="100"/>
    <frame tileid="2663" duration="100"/>
+   <frame tileid="2671" duration="100"/>
+   <frame tileid="2679" duration="100"/>
+   <frame tileid="2687" duration="100"/>
   </animation>
  </tile>
  <tile id="2632">
@@ -10777,6 +16681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2664">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2665">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2666">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2667">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2668">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2669">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2670">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2671">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2672">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2673">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2674">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2675">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2676">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2677">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2678">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2679">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2680">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2681">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2682">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2683">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2684">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2685">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2686">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2687">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2688">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -10787,6 +16811,9 @@
    <frame tileid="2704" duration="100"/>
    <frame tileid="2712" duration="100"/>
    <frame tileid="2720" duration="100"/>
+   <frame tileid="2728" duration="100"/>
+   <frame tileid="2736" duration="100"/>
+   <frame tileid="2744" duration="100"/>
   </animation>
  </tile>
  <tile id="2689">
@@ -10799,6 +16826,9 @@
    <frame tileid="2705" duration="100"/>
    <frame tileid="2713" duration="100"/>
    <frame tileid="2721" duration="100"/>
+   <frame tileid="2729" duration="100"/>
+   <frame tileid="2737" duration="100"/>
+   <frame tileid="2745" duration="100"/>
   </animation>
  </tile>
  <tile id="2690">
@@ -10811,6 +16841,9 @@
    <frame tileid="2706" duration="100"/>
    <frame tileid="2714" duration="100"/>
    <frame tileid="2722" duration="100"/>
+   <frame tileid="2730" duration="100"/>
+   <frame tileid="2738" duration="100"/>
+   <frame tileid="2746" duration="100"/>
   </animation>
  </tile>
  <tile id="2691">
@@ -10823,6 +16856,9 @@
    <frame tileid="2707" duration="100"/>
    <frame tileid="2715" duration="100"/>
    <frame tileid="2723" duration="100"/>
+   <frame tileid="2731" duration="100"/>
+   <frame tileid="2739" duration="100"/>
+   <frame tileid="2747" duration="100"/>
   </animation>
  </tile>
  <tile id="2692">
@@ -10835,6 +16871,9 @@
    <frame tileid="2708" duration="100"/>
    <frame tileid="2716" duration="100"/>
    <frame tileid="2724" duration="100"/>
+   <frame tileid="2732" duration="100"/>
+   <frame tileid="2740" duration="100"/>
+   <frame tileid="2748" duration="100"/>
   </animation>
  </tile>
  <tile id="2693">
@@ -10847,6 +16886,9 @@
    <frame tileid="2709" duration="100"/>
    <frame tileid="2717" duration="100"/>
    <frame tileid="2725" duration="100"/>
+   <frame tileid="2733" duration="100"/>
+   <frame tileid="2741" duration="100"/>
+   <frame tileid="2749" duration="100"/>
   </animation>
  </tile>
  <tile id="2694">
@@ -10859,6 +16901,9 @@
    <frame tileid="2710" duration="100"/>
    <frame tileid="2718" duration="100"/>
    <frame tileid="2726" duration="100"/>
+   <frame tileid="2734" duration="100"/>
+   <frame tileid="2742" duration="100"/>
+   <frame tileid="2750" duration="100"/>
   </animation>
  </tile>
  <tile id="2695">
@@ -10871,6 +16916,9 @@
    <frame tileid="2711" duration="100"/>
    <frame tileid="2719" duration="100"/>
    <frame tileid="2727" duration="100"/>
+   <frame tileid="2735" duration="100"/>
+   <frame tileid="2743" duration="100"/>
+   <frame tileid="2751" duration="100"/>
   </animation>
  </tile>
  <tile id="2696">
@@ -11033,6 +17081,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2728">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2729">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2730">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2731">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2732">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2733">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2734">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2735">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2736">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2737">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2738">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2739">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2740">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2741">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2742">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2743">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2744">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2745">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2746">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2747">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2748">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2749">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2750">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2751">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2752">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -11043,6 +17211,9 @@
    <frame tileid="2768" duration="100"/>
    <frame tileid="2776" duration="100"/>
    <frame tileid="2784" duration="100"/>
+   <frame tileid="2792" duration="100"/>
+   <frame tileid="2800" duration="100"/>
+   <frame tileid="2808" duration="100"/>
   </animation>
  </tile>
  <tile id="2753">
@@ -11055,6 +17226,9 @@
    <frame tileid="2769" duration="100"/>
    <frame tileid="2777" duration="100"/>
    <frame tileid="2785" duration="100"/>
+   <frame tileid="2793" duration="100"/>
+   <frame tileid="2801" duration="100"/>
+   <frame tileid="2809" duration="100"/>
   </animation>
  </tile>
  <tile id="2754">
@@ -11067,6 +17241,9 @@
    <frame tileid="2770" duration="100"/>
    <frame tileid="2778" duration="100"/>
    <frame tileid="2786" duration="100"/>
+   <frame tileid="2794" duration="100"/>
+   <frame tileid="2802" duration="100"/>
+   <frame tileid="2810" duration="100"/>
   </animation>
  </tile>
  <tile id="2755">
@@ -11079,6 +17256,9 @@
    <frame tileid="2771" duration="100"/>
    <frame tileid="2779" duration="100"/>
    <frame tileid="2787" duration="100"/>
+   <frame tileid="2795" duration="100"/>
+   <frame tileid="2803" duration="100"/>
+   <frame tileid="2811" duration="100"/>
   </animation>
  </tile>
  <tile id="2756">
@@ -11091,6 +17271,9 @@
    <frame tileid="2772" duration="100"/>
    <frame tileid="2780" duration="100"/>
    <frame tileid="2788" duration="100"/>
+   <frame tileid="2796" duration="100"/>
+   <frame tileid="2804" duration="100"/>
+   <frame tileid="2812" duration="100"/>
   </animation>
  </tile>
  <tile id="2757">
@@ -11103,6 +17286,9 @@
    <frame tileid="2773" duration="100"/>
    <frame tileid="2781" duration="100"/>
    <frame tileid="2789" duration="100"/>
+   <frame tileid="2797" duration="100"/>
+   <frame tileid="2805" duration="100"/>
+   <frame tileid="2813" duration="100"/>
   </animation>
  </tile>
  <tile id="2758">
@@ -11115,6 +17301,9 @@
    <frame tileid="2774" duration="100"/>
    <frame tileid="2782" duration="100"/>
    <frame tileid="2790" duration="100"/>
+   <frame tileid="2798" duration="100"/>
+   <frame tileid="2806" duration="100"/>
+   <frame tileid="2814" duration="100"/>
   </animation>
  </tile>
  <tile id="2759">
@@ -11127,6 +17316,9 @@
    <frame tileid="2775" duration="100"/>
    <frame tileid="2783" duration="100"/>
    <frame tileid="2791" duration="100"/>
+   <frame tileid="2799" duration="100"/>
+   <frame tileid="2807" duration="100"/>
+   <frame tileid="2815" duration="100"/>
   </animation>
  </tile>
  <tile id="2760">
@@ -11289,6 +17481,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2792">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2793">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2794">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2795">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2796">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2797">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2798">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2799">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2800">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2801">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2802">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2803">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2804">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2805">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2806">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2807">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2808">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2809">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2810">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2811">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2812">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2813">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2814">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2815">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2816">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -11299,6 +17611,9 @@
    <frame tileid="2832" duration="100"/>
    <frame tileid="2840" duration="100"/>
    <frame tileid="2848" duration="100"/>
+   <frame tileid="2856" duration="100"/>
+   <frame tileid="2864" duration="100"/>
+   <frame tileid="2872" duration="100"/>
   </animation>
  </tile>
  <tile id="2817">
@@ -11311,6 +17626,9 @@
    <frame tileid="2833" duration="100"/>
    <frame tileid="2841" duration="100"/>
    <frame tileid="2849" duration="100"/>
+   <frame tileid="2857" duration="100"/>
+   <frame tileid="2865" duration="100"/>
+   <frame tileid="2873" duration="100"/>
   </animation>
  </tile>
  <tile id="2818">
@@ -11323,6 +17641,9 @@
    <frame tileid="2834" duration="100"/>
    <frame tileid="2842" duration="100"/>
    <frame tileid="2850" duration="100"/>
+   <frame tileid="2858" duration="100"/>
+   <frame tileid="2866" duration="100"/>
+   <frame tileid="2874" duration="100"/>
   </animation>
  </tile>
  <tile id="2819">
@@ -11335,6 +17656,9 @@
    <frame tileid="2835" duration="100"/>
    <frame tileid="2843" duration="100"/>
    <frame tileid="2851" duration="100"/>
+   <frame tileid="2859" duration="100"/>
+   <frame tileid="2867" duration="100"/>
+   <frame tileid="2875" duration="100"/>
   </animation>
  </tile>
  <tile id="2820">
@@ -11347,6 +17671,9 @@
    <frame tileid="2836" duration="100"/>
    <frame tileid="2844" duration="100"/>
    <frame tileid="2852" duration="100"/>
+   <frame tileid="2860" duration="100"/>
+   <frame tileid="2868" duration="100"/>
+   <frame tileid="2876" duration="100"/>
   </animation>
  </tile>
  <tile id="2821">
@@ -11359,6 +17686,9 @@
    <frame tileid="2837" duration="100"/>
    <frame tileid="2845" duration="100"/>
    <frame tileid="2853" duration="100"/>
+   <frame tileid="2861" duration="100"/>
+   <frame tileid="2869" duration="100"/>
+   <frame tileid="2877" duration="100"/>
   </animation>
  </tile>
  <tile id="2822">
@@ -11371,6 +17701,9 @@
    <frame tileid="2838" duration="100"/>
    <frame tileid="2846" duration="100"/>
    <frame tileid="2854" duration="100"/>
+   <frame tileid="2862" duration="100"/>
+   <frame tileid="2870" duration="100"/>
+   <frame tileid="2878" duration="100"/>
   </animation>
  </tile>
  <tile id="2823">
@@ -11383,6 +17716,9 @@
    <frame tileid="2839" duration="100"/>
    <frame tileid="2847" duration="100"/>
    <frame tileid="2855" duration="100"/>
+   <frame tileid="2863" duration="100"/>
+   <frame tileid="2871" duration="100"/>
+   <frame tileid="2879" duration="100"/>
   </animation>
  </tile>
  <tile id="2824">
@@ -11545,6 +17881,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2856">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2857">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2858">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2859">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2860">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2861">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2862">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2863">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2864">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2865">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2866">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2867">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2868">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2869">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2870">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2871">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2872">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2873">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2874">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2875">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2876">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2877">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2878">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2879">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2880">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -11555,6 +18011,9 @@
    <frame tileid="2896" duration="100"/>
    <frame tileid="2904" duration="100"/>
    <frame tileid="2912" duration="100"/>
+   <frame tileid="2920" duration="100"/>
+   <frame tileid="2928" duration="100"/>
+   <frame tileid="2936" duration="100"/>
   </animation>
  </tile>
  <tile id="2881">
@@ -11567,6 +18026,9 @@
    <frame tileid="2897" duration="100"/>
    <frame tileid="2905" duration="100"/>
    <frame tileid="2913" duration="100"/>
+   <frame tileid="2921" duration="100"/>
+   <frame tileid="2929" duration="100"/>
+   <frame tileid="2937" duration="100"/>
   </animation>
  </tile>
  <tile id="2882">
@@ -11579,6 +18041,9 @@
    <frame tileid="2898" duration="100"/>
    <frame tileid="2906" duration="100"/>
    <frame tileid="2914" duration="100"/>
+   <frame tileid="2922" duration="100"/>
+   <frame tileid="2930" duration="100"/>
+   <frame tileid="2938" duration="100"/>
   </animation>
  </tile>
  <tile id="2883">
@@ -11591,6 +18056,9 @@
    <frame tileid="2899" duration="100"/>
    <frame tileid="2907" duration="100"/>
    <frame tileid="2915" duration="100"/>
+   <frame tileid="2923" duration="100"/>
+   <frame tileid="2931" duration="100"/>
+   <frame tileid="2939" duration="100"/>
   </animation>
  </tile>
  <tile id="2884">
@@ -11603,6 +18071,9 @@
    <frame tileid="2900" duration="100"/>
    <frame tileid="2908" duration="100"/>
    <frame tileid="2916" duration="100"/>
+   <frame tileid="2924" duration="100"/>
+   <frame tileid="2932" duration="100"/>
+   <frame tileid="2940" duration="100"/>
   </animation>
  </tile>
  <tile id="2885">
@@ -11615,6 +18086,9 @@
    <frame tileid="2901" duration="100"/>
    <frame tileid="2909" duration="100"/>
    <frame tileid="2917" duration="100"/>
+   <frame tileid="2925" duration="100"/>
+   <frame tileid="2933" duration="100"/>
+   <frame tileid="2941" duration="100"/>
   </animation>
  </tile>
  <tile id="2886">
@@ -11627,6 +18101,9 @@
    <frame tileid="2902" duration="100"/>
    <frame tileid="2910" duration="100"/>
    <frame tileid="2918" duration="100"/>
+   <frame tileid="2926" duration="100"/>
+   <frame tileid="2934" duration="100"/>
+   <frame tileid="2942" duration="100"/>
   </animation>
  </tile>
  <tile id="2887">
@@ -11639,6 +18116,9 @@
    <frame tileid="2903" duration="100"/>
    <frame tileid="2911" duration="100"/>
    <frame tileid="2919" duration="100"/>
+   <frame tileid="2927" duration="100"/>
+   <frame tileid="2935" duration="100"/>
+   <frame tileid="2943" duration="100"/>
   </animation>
  </tile>
  <tile id="2888">
@@ -11801,6 +18281,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2920">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2921">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2922">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2923">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2924">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2925">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2926">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2927">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2928">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2929">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2930">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2931">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2932">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2933">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2934">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2935">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2936">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2937">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2938">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2939">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2940">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2941">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2942">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2943">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="2944">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -11811,6 +18411,9 @@
    <frame tileid="2960" duration="100"/>
    <frame tileid="2968" duration="100"/>
    <frame tileid="2976" duration="100"/>
+   <frame tileid="2984" duration="100"/>
+   <frame tileid="2992" duration="100"/>
+   <frame tileid="3000" duration="100"/>
   </animation>
  </tile>
  <tile id="2945">
@@ -11823,6 +18426,9 @@
    <frame tileid="2961" duration="100"/>
    <frame tileid="2969" duration="100"/>
    <frame tileid="2977" duration="100"/>
+   <frame tileid="2985" duration="100"/>
+   <frame tileid="2993" duration="100"/>
+   <frame tileid="3001" duration="100"/>
   </animation>
  </tile>
  <tile id="2946">
@@ -11835,6 +18441,9 @@
    <frame tileid="2962" duration="100"/>
    <frame tileid="2970" duration="100"/>
    <frame tileid="2978" duration="100"/>
+   <frame tileid="2986" duration="100"/>
+   <frame tileid="2994" duration="100"/>
+   <frame tileid="3002" duration="100"/>
   </animation>
  </tile>
  <tile id="2947">
@@ -11847,6 +18456,9 @@
    <frame tileid="2963" duration="100"/>
    <frame tileid="2971" duration="100"/>
    <frame tileid="2979" duration="100"/>
+   <frame tileid="2987" duration="100"/>
+   <frame tileid="2995" duration="100"/>
+   <frame tileid="3003" duration="100"/>
   </animation>
  </tile>
  <tile id="2948">
@@ -11859,6 +18471,9 @@
    <frame tileid="2964" duration="100"/>
    <frame tileid="2972" duration="100"/>
    <frame tileid="2980" duration="100"/>
+   <frame tileid="2988" duration="100"/>
+   <frame tileid="2996" duration="100"/>
+   <frame tileid="3004" duration="100"/>
   </animation>
  </tile>
  <tile id="2949">
@@ -11871,6 +18486,9 @@
    <frame tileid="2965" duration="100"/>
    <frame tileid="2973" duration="100"/>
    <frame tileid="2981" duration="100"/>
+   <frame tileid="2989" duration="100"/>
+   <frame tileid="2997" duration="100"/>
+   <frame tileid="3005" duration="100"/>
   </animation>
  </tile>
  <tile id="2950">
@@ -11883,6 +18501,9 @@
    <frame tileid="2966" duration="100"/>
    <frame tileid="2974" duration="100"/>
    <frame tileid="2982" duration="100"/>
+   <frame tileid="2990" duration="100"/>
+   <frame tileid="2998" duration="100"/>
+   <frame tileid="3006" duration="100"/>
   </animation>
  </tile>
  <tile id="2951">
@@ -11895,6 +18516,9 @@
    <frame tileid="2967" duration="100"/>
    <frame tileid="2975" duration="100"/>
    <frame tileid="2983" duration="100"/>
+   <frame tileid="2991" duration="100"/>
+   <frame tileid="2999" duration="100"/>
+   <frame tileid="3007" duration="100"/>
   </animation>
  </tile>
  <tile id="2952">
@@ -12057,6 +18681,126 @@
    <property name="collision" type="bool" value="true"/>
   </properties>
  </tile>
+ <tile id="2984">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2985">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2986">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2987">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2988">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2989">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2990">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2991">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2992">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2993">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2994">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2995">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2996">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2997">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2998">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="2999">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3000">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3001">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3002">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3003">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3004">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3005">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3006">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3007">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
  <tile id="3008">
   <properties>
    <property name="collision" type="bool" value="true"/>
@@ -12067,6 +18811,9 @@
    <frame tileid="3024" duration="100"/>
    <frame tileid="3032" duration="100"/>
    <frame tileid="3040" duration="100"/>
+   <frame tileid="3048" duration="100"/>
+   <frame tileid="3056" duration="100"/>
+   <frame tileid="3064" duration="100"/>
   </animation>
  </tile>
  <tile id="3009">
@@ -12079,6 +18826,9 @@
    <frame tileid="3025" duration="100"/>
    <frame tileid="3033" duration="100"/>
    <frame tileid="3041" duration="100"/>
+   <frame tileid="3049" duration="100"/>
+   <frame tileid="3057" duration="100"/>
+   <frame tileid="3065" duration="100"/>
   </animation>
  </tile>
  <tile id="3010">
@@ -12091,6 +18841,9 @@
    <frame tileid="3026" duration="100"/>
    <frame tileid="3034" duration="100"/>
    <frame tileid="3042" duration="100"/>
+   <frame tileid="3050" duration="100"/>
+   <frame tileid="3058" duration="100"/>
+   <frame tileid="3066" duration="100"/>
   </animation>
  </tile>
  <tile id="3011">
@@ -12103,6 +18856,9 @@
    <frame tileid="3027" duration="100"/>
    <frame tileid="3035" duration="100"/>
    <frame tileid="3043" duration="100"/>
+   <frame tileid="3051" duration="100"/>
+   <frame tileid="3059" duration="100"/>
+   <frame tileid="3067" duration="100"/>
   </animation>
  </tile>
  <tile id="3012">
@@ -12115,6 +18871,9 @@
    <frame tileid="3028" duration="100"/>
    <frame tileid="3036" duration="100"/>
    <frame tileid="3044" duration="100"/>
+   <frame tileid="3052" duration="100"/>
+   <frame tileid="3060" duration="100"/>
+   <frame tileid="3068" duration="100"/>
   </animation>
  </tile>
  <tile id="3013">
@@ -12127,6 +18886,9 @@
    <frame tileid="3029" duration="100"/>
    <frame tileid="3037" duration="100"/>
    <frame tileid="3045" duration="100"/>
+   <frame tileid="3053" duration="100"/>
+   <frame tileid="3061" duration="100"/>
+   <frame tileid="3069" duration="100"/>
   </animation>
  </tile>
  <tile id="3014">
@@ -12139,6 +18901,9 @@
    <frame tileid="3030" duration="100"/>
    <frame tileid="3038" duration="100"/>
    <frame tileid="3046" duration="100"/>
+   <frame tileid="3054" duration="100"/>
+   <frame tileid="3062" duration="100"/>
+   <frame tileid="3070" duration="100"/>
   </animation>
  </tile>
  <tile id="3015">
@@ -12151,6 +18916,9 @@
    <frame tileid="3031" duration="100"/>
    <frame tileid="3039" duration="100"/>
    <frame tileid="3047" duration="100"/>
+   <frame tileid="3055" duration="100"/>
+   <frame tileid="3063" duration="100"/>
+   <frame tileid="3071" duration="100"/>
   </animation>
  </tile>
  <tile id="3016">
@@ -12309,6 +19077,126 @@
   </properties>
  </tile>
  <tile id="3047">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3048">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3049">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3050">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3051">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3052">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3053">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3054">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3055">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3056">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3057">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3058">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3059">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3060">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3061">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3062">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3063">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3064">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3065">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3066">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3067">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3068">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3069">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3070">
+  <properties>
+   <property name="collision" type="bool" value="true"/>
+  </properties>
+ </tile>
+ <tile id="3071">
   <properties>
    <property name="collision" type="bool" value="true"/>
   </properties>
