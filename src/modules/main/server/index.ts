@@ -6,6 +6,7 @@ import { SampleMap2 } from './maps/samplemap2'
 import { SampleMap3 } from './maps/samplemap3'
 import { KupolaMap } from './maps/kupola'
 import { DreamMap } from './maps/dream'
+import { MarsMap } from './maps/mars'
 
 @RpgModule<RpgServer>({ 
     player,
@@ -24,7 +25,8 @@ import { DreamMap } from './maps/dream'
         SampleMap2,
         SampleMap3,
         KupolaMap,
-        DreamMap
+        DreamMap,
+        MarsMap
     ]
 })
 export default class RpgServerModuleEngine {}

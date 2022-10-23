@@ -3,7 +3,7 @@ import { RpgPlayer, RpgPlayerHooks, Control, Move, RpgClassMap, RpgMap } from '@
 var inter;
 export const player: RpgPlayerHooks = {
     onConnected(player: RpgPlayer) {
-        player.setGraphic('male012')
+        player.setGraphic('female132')
         player.setHitbox(16, 16)
         player.changeMap('dreammap')
         player.hp = 100
@@ -25,7 +25,7 @@ export const player: RpgPlayerHooks = {
         player.gui('my-hud').open()
         clearInterval(inter);
         inter = setInterval(function(){
-            if(player.hp > 0) player.hp-=20;
+            if(player.hp > 0) player.hp-=1;
             if(player.hp==0) {
                 player.changeMap('kupolamap')
                 player.recovery({hp:0.135})
