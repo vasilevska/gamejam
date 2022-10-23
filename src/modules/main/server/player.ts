@@ -5,7 +5,7 @@ export const player: RpgPlayerHooks = {
     onConnected(player: RpgPlayer) {
         player.setGraphic('female132')
         player.setHitbox(16, 16)
-        player.changeMap('dreammap')
+        player.changeMap('kupolamap')
         player.hp = 100
         player.param.MAXHP = 100;
                

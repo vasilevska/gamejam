@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="3">
  <tileset firstgid="1" source="[A]Grass_pipo.tsx"/>
  <tileset firstgid="529" source="[A]Water_pipo.tsx"/>
  <tileset firstgid="3601" source="[A]Dirt_pipo.tsx"/>
@@ -77,4 +77,12 @@
 728,728,853,853,310,303,303,303,303,303,303,303,303,303,303,303,303,303,303,303,303,312,853,853,853,853,853,853,853,853
 </data>
  </layer>
+ <objectgroup id="4" name="Object Layer 1">
+  <object id="1" name="fall" x="270.667" y="598.667">
+   <point/>
+  </object>
+  <object id="2" name="start" x="862" y="493">
+   <point/>
+  </object>
+ </objectgroup>
 </map>

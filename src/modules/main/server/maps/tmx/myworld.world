@@ -1,5 +1,54 @@
 {
     "maps": [
+        {
+            "fileName": "kupola2..tmx",
+            "height": 640,
+            "width": 800,
+            "x": 2816,
+            "y": 1280
+        },
+        {
+            "fileName": "dream.tmx",
+            "height": 640,
+            "width": 800,
+            "x": 2848,
+            "y": 800
+        },
+        {
+            "fileName": "simplemap.tmx",
+            "height": 640,
+            "width": 800,
+            "x": 2048,
+            "y": 96
+        },
+        {
+            "fileName": "simplemap2.tmx",
+            "height": 640,
+            "width": 640,
+            "x": 2912,
+            "y": 96
+        },
+        {
+            "fileName": "simplemap3.tmx",
+            "height": 640,
+            "width": 800,
+            "x": 3648,
+            "y": 96
+        },
+        {
+            "fileName": "mars.tmx",
+            "height": 640,
+            "width": 960,
+            "x": 6400,
+            "y": 96
+        },
+        {
+            "fileName": "kupola2.tmx",
+            "height": 640,
+            "width": 800,
+            "x": 7360,
+            "y": 96
+        }
     ],
     "onlyShowAdjacentMaps": false,
     "type": "world"
